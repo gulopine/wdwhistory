@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Watching for YAML changes..."
+fswatch ../maps.data/filings.yaml | xargs -n 1 bash filings.sh

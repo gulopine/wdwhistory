@@ -1,0 +1,5398 @@
+---
+date: 1969-04-15
+doc: DOCC831996
+desc: "Main St. Underground Service Complex and Main St. Bldgs"
+property:
+ origin: 24 27 11 N
+
+ # TODO: Fix these bearings to match the south and west lines of 24 27 2/11
+ beginning:
+  - N 90 00 00 E  119
+ shape:
+  - N 00 00 00 E  275
+  - N 90 00 00 E  600
+  - S 00 00 00 E 1475
+  - N 90 00 00 W  600
+  - N 00 00 00 E 1200
+
+contractor: "J. A. Jones Construction Co."
+
+---
+date: 1969-06-10
+doc: DOCC843259
+desc: "Initial Construction, Main Street Underground Service Complex and Four Main Street Buildings"
+property:
+ origin: 24 27 11 N
+
+ # TODO: Fix these bearings to match the south and west lines of 24 27 2/11
+
+ beginning:
+  - N 90 00 00 E  119
+ shape:
+  - N 00 00 00 E  275
+  - N 90 00 00 E  600
+  - S 00 00 00 E 1475
+  - N 90 00 00 W  600
+  - N 00 00 00 E 1200
+
+contractor: "Allen Contracting Co., Inc."
+
+---
+date: 1969-06-10
+doc: DOCC843260
+desc: "Water Well No. 8 and Operating Facilities for Water Well No. 8"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - N 00 00 29 W 1542.80
+ shape:
+  - S 89 59 31 W   63.00
+  - N 00 00 29 W  110.00
+  - N 89 59 31 E   63.00
+  - S 00 00 29 E  110.00
+
+---
+date: 1969-06-18
+doc: DOCC844941
+desc: "Retaining Wall - Haunted Mansion"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 13 23 25.4 W 421.742
+ shape:
+  - N 90 00 00   W  41.507
+  - S 37 29 09   W  83.849
+  - S 07 00 00   W  75.295
+  - S 39 00 35   W  73.200
+  - S 21 47 42   E  81.413
+  - S 68 12 18   W  25.000
+  - N 21 47 42   W  96.082
+  - N 39 00 35   E  80.698
+  - N 07 00 00   E  74.936
+  - N 37 29 09   E 102.989
+  - N 90 00 00   E  53.839
+  - S 00 00 00   E  25.000
+
+---
+date: 1969-06-25
+doc: DOCC846213
+desc: "Construction of Small World Facility Building"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 00 10 47.5 E 140.799
+ shape:
+  - N 00 00 00   E 221.000
+  - N 90 00 00   E 309.000
+  - S 00 00 00   E 126.500
+  - N 90 00 00   W  22.500
+  - S 00 00 00   E  94.500
+  - N 90 00 00   W 286.500
+
+---
+date: 1969-06-25
+doc: DOCC846213
+desc: "Construction of Haunted Mansion Facility Building"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 15 27 06.5 W 114.357
+ shape:
+  - N 83 00 00.3 W 184.611
+  - N 21 47 42   W  85.520
+  - N 39 00 35   E  73.200
+  - N 07 00 00   E  75.295
+  - N 37 29 09   E  83.849
+  - N 90 00 00   E  41.507
+  - N 00 00 00   E   3.400
+  - S 83 00 00.3 E 103.682
+  - S 06 59 59.7 W 293.000
+
+---
+date: 1970-07-24
+doc: DOCC851879
+desc: "Railroad Overpass - Peripheral Roadways"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - N 71 00 53.2 W 1588.284
+ shape:
+  - N 00 00 00   E  733.000
+  - N 90 00 00   W  150.000
+  - S 00 00 00   E  733.000
+  - N 90 00 00   E  150.000
+
+---
+date: 1969-08-25
+doc: DOCC858746
+desc: "Jungle Cruise Initial Construction"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 08 47 03 E 778.838
+ shape:
+  - S 00 00 00 E 618.000
+  - N 90 00 00 W 278.857
+  - R 543.000 80 00 00 758.143
+  - N 10 00 00 W  70.000
+  - N 80 00 00 E 100.000
+  - N 56 53 43 E 151.947
+  - N 90 00 00 E 600.000
+
+---
+date: 1969-08-25
+doc: DOCC858747
+desc: "Peripheral Roadway Utilities"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - N 43 48 37 W 1070.087
+ shape:
+  - S 60 00 00 W  708.088
+  - L  355.000 60 00 00 371.755
+  - S 00 00 00 E 1431.821
+  - N 90 00 00 E   75.297
+  - R  145.000 50 00 00 126.536
+  - S 40 00 00 E 1235.227
+  - R  490.000 65 00 00 555.888
+  - S 25 00 00 W  430.142
+  - L  955.000 21 30 00 358.360
+  - S 03 30 00 W  744.301
+  - L  955.000 17 23 36 289.910
+  - S 76 06 24 W   90.000
+  - R    0.000 90 00 00   0.000  # Reposition for the following curve
+  - R 1045.000 17 23 36 317.232
+  - N 03 30 00 E  146.302
+  - N 86 30 00 W  744.741
+  - S 74 29 19 W  306.066
+  - N 90 00 00 W  410.833
+  - N 00 00 00 E  361.000
+  - N 90 00 00 W  230.000
+  - N 00 00 00 E   26.000
+
+  # Page break
+
+  - N 90 00 00 E  260.000
+  - S 00 00 00 E  361.000
+  - N 90 00 00 E  380.015
+  - N 74 29 19 E  337.861
+  - N 28 30 00 W  233.732
+  - N 61 30 00 E   37.000
+  - S 28 30 00 E  175.000
+  - S 59 21 01 E   74.949
+  - N 64 30 00 E  340.000
+  - S 25 30 00 E   20.000
+  - S 64 30 00 W  265.705
+  - S 86 30 00 E  575.461
+  - N 03 30 00 E  508.000
+  - R 1045.000 21 30 00 392.132
+  - N 25 00 00 E  430.142
+  - L 400.000 65 00 00 453.786
+  - N 40 00 00 W 1235.227
+  - L 55.000 50 00 00 47.997
+  - N 90 00 00 W   75.297
+  - S 00 00 00 E  765.000
+  - N 90 00 00 W   45.000
+  - S 00 00 00 E  211.024
+  - S 17 54 37 W  327.046
+  - R 56.000 72 05 23 70.458
+  - N 90 00 00 W  169.727
+  - N 60 21 13 W  110.148
+  - N 29 48 37 E   12.000
+  - S 60 21 13 E  106.973
+  - N 90 00 00 E  166.550
+  - L 44.000 72 05 23 55.360
+  - N 17 54 37 E  325.154
+  - N 00 00 00 E  219.134
+  - N 90 00 00 W  671.000
+  - S 00 00 00 E  153.000
+  - N 90 00 00 W  137.000
+  - N 00 00 00 E  213.000
+  - N 90 00 00 E  775.000
+  - N 00 00 00 E 2216.821
+  - R 445.000 60 00 00 466.003
+  - N 60 00 00 E  686.220
+  - S 43 39 27 E   92.617
+
+---
+date: 1969-08-25
+doc: DOCC858748
+desc: "Railroad Station - Main Street"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - N 58 49 49 W 2317.332
+ shape:
+  - N 90 00 00 W  420.000
+  - N 00 00 00 E  100.000
+  - N 41 11 09 E  106.301
+  - S 88 34 04 E  200.062
+  - S 63 26 05 E  167.705
+  - S 00 00 00 E  100.000
+
+---
+date: 1969-08-29
+doc: DOCC859936
+desc: "Dry Dock and Channel"
+property:
+ origin: 24 27 1 W
+ beginning:
+  - S 00 00 29 E 795.093
+ shape:
+  - N 90 00 00 E 476.623
+  - S 34 00 00 E 335.986
+  - R   290.000 34 00 00 172.090
+  - S 00 00 00 E  80.289
+  - N 90 00 00 W 120.000
+  - N 00 00 00 E  80.289
+  - L   170.000 45 00 00 133.518
+  - N 45 00 00 W 100.000
+  - L 170.000 39 56 16.5 118.498
+  - S 00 00 00 E  44.337
+  - N 90 00 00 W 368.338
+  - N 00 00 29 W 245.000
+
+---
+date: 1969-09-25
+doc: DOCC865359
+desc: "Service Area Shop Buildings"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - N 83 11 37 W  117.343
+ shape:
+  - S 00 00 00 E  215.000
+  - N 90 00 00 E  115.000
+  - S 00 00 00 E  815.000
+  - N 90 00 00 W 1235.000
+  - N 00 00 00 E  635.000
+  - N 90 00 00 W  330.000
+  - N 00 00 00 E  395.000
+  - N 90 00 00 E 1450.000
+
+---
+date: 1969-09-30
+doc: DOCC866251
+desc: "Staging Area Service Station"
+property:
+ origin: 24 28 17 E
+ beginning:
+  - S 51 10 50 W 1320.430
+ shape:
+  - S 00 00 00 E  100.000
+  - N 90 00 00 W  230.000
+  - N 00 00 00 E  100.000
+  - N 90 00 00 E  230.000
+
+---
+date: 1969-10-23
+doc: DOCC870838
+desc: "Swiss Family Tree House"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 09 20 50.1 W 683.781
+ shape:
+  - S 00 00 00 E 100.000
+  - N 90 00 00 W 100.000
+  - N 00 00 00 E 100.000
+  - N 90 00 00 E 100.000
+
+---
+date: 1969-10-28
+doc: DOCC871619
+desc: "West Waterway Channel"
+property:
+ type: centerline
+ origin: 24 27 11 W
+ beginning:
+  - N 65 24 00 E 1456.671
+ shape:
+  - N 25 42 50 W  142.490
+  - R 250.000 25 42 50 112.198
+  - N 00 00 00 E 1536.384
+  - R 250.000 34 00 00 148.353
+  - N 34 00 00 E  504.76
+  - R 125.000 58 30 00 127.627
+  - S 87 30 00 E 235.932
+ width: 150
+
+---
+date: 1969-10-28
+doc: DOCC871620
+desc: "West Loop Tunnel - Underground Service Complex"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 75 36 41 E 191.963
+ shape:
+  - S 45 00 00 E 142.836
+  - S 00 00 00 E 98.000
+  - S 45 00 00 W 343.654
+  - S 00 00 00 E 170.000
+  - S 56 18 36 E 317.288
+  - S 00 00 00 E 174.999
+  - N 56 18 36 W 515.593
+  - N 00 00 00 E 370.000
+  - N 45 00 00 E 434.164
+
+---
+date: 1969-11-03
+doc: DOCC872913
+desc: "Monorail Clearing"
+property:
+ origin: 24 27 11 W
+ type: centerline
+ beginning:
+  - N 62 39 31.6 E 1014.442
+ shape:
+  - N 35 00 00 E   0.00  # Reposition for the following curve
+  - R 500.000 18 00 00 157.08
+  - N 53 00 00 E 613.55
+  - R 1200.000 39 00 00 816.814
+ width: 75
+
+---
+date: 1969-11-12
+doc: DOCC874656
+desc: "Theme Park Storm Drains"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 58 58 55 E 481.843
+ shape:
+  - N 00 00 00 E 129.070
+  - N 46 03 33 E 190.722
+  - N 00 00 00 E  70.585
+  - N 90 00 00 E  20.000
+  - S 00 00 00 E  79.086
+  - S 46 03 33 W 197.667
+  - S 00 00 00 E 115.750
+  - N 90 00 00 W  15.000
+
+---
+date: 1969-11-12
+doc: DOCC874656
+desc: "Theme Park Storm Drains Parcel A"
+property:
+ origin: 24 27 2 S
+ type: centerline
+ beginning:
+  - N 01 33 20 W 379.676
+ shape:
+  - N 02 56 42 E 180.000
+  - N 48 53 16 W 148.000
+  - N 13 52 39 W 175.111
+  - N 30 00 00 W  98.000
+ width: 20
+
+---
+date: 1969-11-12
+doc: DOCC874656
+desc: "Theme Park Storm Drains Parcel B"
+property:
+ origin: 24 27 2 S
+ type: centerline
+ beginning:
+  - N 01 33 20 W 379.676
+  - N 02 56 42 E 180.000
+  - N 48 53 16 W 148.000
+ shape:
+  - S 63 00 00 W  60.000
+ width: 20
+
+---
+date: 1969-11-12
+doc: DOCC874657
+desc: "Fantasyland Retaining Wall"
+property:
+ origin: 24 27 2 S
+ type: centerline
+ beginning:
+  - N 65 54 51 E 576.561
+ shape:
+  - N 00 00 00 E  11.00
+  - N 90 00 00 W 113.42
+  - N 00 00 00 E 119.00
+ width: 20
+
+---
+date: 1969-12-30
+doc: DOCC883059
+desc: "Law Engineering Concrete Test Facility"
+property:
+ origin: 24 28 17 S
+ beginning:
+  - N 00 21 55 E 1780.050
+  - S 89 38 05 E   70.000
+ shape:
+  - N 00 21 55 E  110.000
+  - N 90 00 00 E  150.000
+  - S 00 21 55 W  110.000
+  - N 90 00 00 W  150.000
+
+---
+date: 1969-12-31
+doc: DOCC883636
+desc: "Main Street Hotel Basement"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E  531.247
+  - S 00 00 00 E 1113.059
+ shape:
+  - N 90 00 00 E    5.000
+  - S 57 55 38 E   94.477
+  - N 90 00 00 E   73.775
+  - S 00 00 00 E   82.000
+  - N 90 00 00 W  122.500
+  - N 00 00 00 E   61.399
+  - N 57 55 38 W   42.877
+  - N 00 00 00 E   48.000
+
+---
+date: 1969-12-31
+doc: DOCC883637
+desc: "Dry Dock Facilities"
+property:
+ origin: 24 27 1 SW
+ beginning:
+  - N 00 44 20 W 1697.178
+ shape:
+  - N 00 00 00 E  155.420
+  - N 90 00 00 E  216.718
+  - N 45 00 00 E   43.134
+  - N 90 00 00 E  182.782
+  - S 00 00 00 E  250.000
+  - N 90 00 00 W  302.250
+  - N 00 00 00 E   64.080
+  - N 90 00 00 W  127.750
+
+---
+date: 1970-01-09
+doc: DOCC885175
+desc: "Contemporary Resort Area"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - S 00 03 34 E  92.61
+ shape:
+  - S 76 01 32 E  115.97
+  - N 90 00 00 E  280.00
+  - N 60 00 00 E  317.04
+  - N 00 00 00 E 1375.87  # A little hard to make out this distance
+  - N 45 00 00 W  460.17
+  - N 90 00 00 W 1100.00
+  - S 03 30 00 W  744.30
+  # Needs a repositioning step?
+  - L 955.00 22 30 00 375.03
+  - N 71 00 00 E   30.00
+  - S 19 00 00 E  635.00
+  - S 76 01 32 E  534.19
+
+---
+date: 1970-01-19
+doc: DOCC887308
+desc: "Theme Park Storm Drain and Sanitary Sewer Parcel A"
+property:
+ origin: 24 27 11 N
+ type: centerline
+ beginning:
+  - N 78 32 25 E  76.32
+ shape:
+  - S 08 31 51 W 139.86
+  - S 15 48 00 W 220.50
+  - S 75 25 15 W 234.62
+  - N 90 00 00 W 285.27
+  - S 00 00 00 E 284.00
+  - N 90 00 00 E 171.00
+ width: 26
+
+---
+date: 1970-01-19
+doc: DOCC887308
+desc: "Theme Park Storm Drain and Sanitary Sewer Parcel B"
+property:
+ origin: 24 27 11 N
+ type: centerline
+ beginning:
+  - N 78 32 25 E  76.32
+  - S 08 31 51 W 139.86
+  - S 15 48 00 W 220.50
+  - S 75 25 15 W 234.62
+  - N 90 00 00 W 285.27
+  - S 00 00 00 E 284.00
+  - N 90 00 00 E 171.00
+ shape:
+  - N 90 00 00 E  56.30
+  - S 66 00 00 E 186.85
+  - S 78 27 13 E 324.74
+  - S 00 00 00 E 254.00
+ width: 20
+
+---
+date: 1970-01-19
+doc: DOCC887308
+desc: "Theme Park Storm Drain and Sanitary Sewer Parcel C"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 78 32 25 E  76.32
+ shape:
+  - N 43 04 41 W  16.00
+  - R 50.00 98 25 19 85.89
+  - N 51 30 00 W  48.43
+  - N 00 00 00 E  28.40
+  - S 51 30 00 E 153.63
+  - S 46 55 19 W  84.26
+  - N 43 04 41 W  10.00
+
+---
+date: 1970-01-19
+doc: DOCC887308
+desc: "Theme Park Storm Drain and Sanitary Sewer Parcel D"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 78 32 25 E  76.32
+  - N 43 04 41 W  16.00
+  - R 50.00 98 25 19 85.89
+  - N 51 30 00 W  48.43
+  - N 00 00 00 E  28.40
+ shape:
+  - S 00 00 00 E  25.75
+  - N 90 00 00 W  73.00
+  - N 07 00 00 E 266.99
+  - N 90 00 00 E  40.46
+  - S 00 00 00 E 239.25
+
+---
+date: 1970-01-20
+doc: DOCC887466
+desc: "East Show Facility Building"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 87 15 23 E 599.629
+ shape:
+  - N 90 00 00 E  52.000
+  - S 75 00 00 E  92.000
+  - S 60 00 00 E  48.000
+  - S 30 00 00 W 111.083
+  - N 60 00 00 W  48.000
+  - N 90 00 00 W  85.333
+  - S 00 00 00 E  24.000
+  - N 90 00 00 W  48.000
+  - S 45 00 00 W  33.936
+  - N 45 00 00 W  67.872
+  - N 00 00 00 E  24.000
+  - N 45 00 00 E 101.808
+  - N 90 00 00 E  48.000
+  - N 00 00 00 E  24.000
+
+---
+date: 1970-01-20
+doc: DOCC887466
+desc: "West Show Facility Building"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 89 07 16 E 255.749
+ shape:
+  - S 45 00 00 E 181.917
+  - S 45 00 00 W  95.810
+  - S 45 00 00 E   6.000
+  - S 45 00 00 W  14.000
+  - N 45 00 00 W  14.000
+  - N 45 00 00 E   6.000
+  - N 45 00 00 W  21.546
+  - S 45 00 00 W   4.247
+  - N 45 00 00 W   9.251
+  - N 90 00 00 W  17.160
+  - S 45 00 00 W 148.648
+  - N 45 00 00 W 155.000
+  - N 45 00 00 E  57.414
+  - N 90 00 00 E  33.941
+  - N 45 00 00 E 187.429
+
+---
+date: 1970-02-16
+doc: DOCC892657
+desc: "Golf Courses A and B"
+property:
+ origin: 24 27 10 SW
+ beginning:
+  - N 00 00 00 E    0.000  # Not sure what this is supposed to be yet
+ shape:
+  - N 00 15 26 E  604.812
+  - N 90 00 00 E 3886.967
+  - N 00 00 00 E  670.227
+  - N 90 00 00 E 1773.115
+  - S 63 42 58 E    0.000  # Reposition for the following curve
+  - R  205.000 59 16 31 212.082
+  # S 04 26 27 S    0.000
+  - L 1045.000 28 31 31 520.264
+  - S 33 00 00 E  901.606
+  - S 62 18 02 W 2008.446
+  - S 27 41 58 E  451.774
+  - N 62 18 02 E 1452.132
+  - N 47 36 55 E  603.752
+
+  # S 33 00 00 E  442.315
+  #               +62.325
+  - S 33 00 00 E  484.635
+
+  - R 1045.000 20 56 00 513.325
+
+  # S 12 04 00 E  458.530
+  #               +71.599
+  - S 12 04 00 E  530.129
+
+  - L 2195.000 26 00 00 996.059
+  - S 38 04 00 E  600.000
+  - L 3545.000 13 50 18 856.204
+  - S 37 17 12 W  197.501
+  - R  350.000 52 42 48 322.007
+  - N 90 00 00 W  607.496
+  - L  450.000 22 02 43 173.143
+  - S 67 57 17 W  204.617
+  - L  868.510 47 00 00 712.443
+  - S 20 57 17 W  553.498
+  - R 2814.790 34 32 20 1696.804
+  - N 90 00 00 W 1549.955
+  - N 00 00 00 E 3583.901
+  - N 90 00 00 W 1350.000
+  - N 00 00 00 E  500.000
+  - N 90 00 00 W 2850.000
+  - N 00 00 00 E 2294.618
+  - N 89 53 37 E  310.319
+
+---
+date: 1970-02-16
+doc: DOCC892658
+desc: "Lagoon and Monorail Earthwork Parcel A - Venetian Resort"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - S 67 12 41 W 1376.023
+ shape:
+  - S 45 13 02 E 219.518
+  - S 44 48 26 W 210.012
+  - S 45 25 20 E 575.601
+  - S 04 50 38 E 177.634
+  - S 54 33 55 W 582.983
+  - N 45 09 54 W 245.367
+  - N 25 47 27 E 165.484
+  - N 00 00 00 E 188.000
+  - N 90 00 00 W 101.000
+  - S 44 45 51 W 171.828
+  - N 43 24 29 W 131.322
+  - N 41 30 00 W 120.000
+  - R 372.000 94 15 00 611.930
+  - N 52 45 00 E 195.543
+  - R 142.000 68 10 14 168.952
+  - L 208.000 47 59 24 174.217
+ width: 16
+
+---
+date: 1970-02-16
+doc: DOCC892658
+desc: "Lagoon and Monorail Earthwork Parcel B - Asian Resort"
+property:
+ origin: 24 27 11 W
+ beginning:
+  - S 84 37 43 E 766.045
+ shape:
+  - S 79 58 38 E  99.868
+  - N 83 00 00 E 717.000
+  - S 07 00 00 E 732.000
+  - S 83 00 00 W 717.000
+  - S 84 37 04 W 118.074
+  - N 00 00 00 E  76.000
+  - S 82 51 12 W 329.560
+  - N 07 12 13 W 542.280
+  - N 82 36 11 W 287.392
+  - N 15 25 20 E 150.416
+
+---
+date: 1970-02-16
+doc: DOCC892658
+desc: "Lagoon and Monorail Earthwork Parcel C - Transportation Terminal"
+property:
+ origin: 24 27 11 S
+ beginning:
+  - N 30 24 04 E 307.766
+ shape:
+  - S 42 45 30 E  100.961
+  - L 250.000 45 58 15 213.675
+  - S 33 30 00 E   40.000
+  - N 86 30 00 E  108.629
+  - S 33 30 00 E   93.949
+  - N 66 30 00 E  200.000
+  - N 13 30 00 W   93.950
+  - N 46 30 00 E  108.630
+  - N 13 30 00 W   40.000
+  - N 63 11 44 E    0.000  # Reposition fo the following curve
+  - L 100.000 53 12 08  92.855
+  - N 09 59 36 E   89.389
+  - S 57 49 17 E  525.761
+  - S 00 00 00 E  398.000
+  - S 32 46 45 E  157.000
+  - S 00 00 00 E  567.000
+  - N 90 00 00 W 2010.000
+  - N 00 00 00 E  232.000
+  - N 90 00 00 E  200.000
+  - N 61 23 22 E  250.599
+  - N 06 52 54 W  292.104
+  - N 33 04 45 E  650.423
+
+---
+date: 1970-02-24
+doc: DOCC894299
+desc: "North-South Road Parcel A"
+property:
+ origin: 25 27 1 N
+ beginning:
+  - N 89 49 57 E   80.173
+ shape:
+  - N 89 49 57 E  202.889
+  - S 09 30 49 W 2279.228
+  - R 3068.000 11 20 32 607.339
+  - S 20 51 21 W   52.226
+  - S 69 08 39 E   46.000
+  - S 20 51 21 W  623.911
+  - N 69 08 39 W  352.000
+  - N 20 51 21 E  623.911
+  - S 69 08 39 E   46.000
+  - N 20 51 21 E  146.387
+  - L 4932.000 11 20 32 976.334
+  - N 09 30 49 E 1732.065
+
+---
+date: 1970-02-24
+doc: DOCC894299
+desc: "North-South Road Parcel B"
+property:
+ origin: 24 27 36 S
+ beginning:
+  - N 89 49 57 E   80.173
+ shape:
+  - N 89 49 57 E  202.889
+  - N 09 30 49 E 1985.683
+  - L 5100.000 07 53 00  701.710
+  - N 01 37 49 E  880.000
+  - S 88 22 11 E   20.000
+  - L    0.000 90 00 00    0.000  # Reposition for the following curve
+  # N 01 37 49 E    0.000  # Reposition for the following curve
+  - R 5642.000 04 37 20  455.157
+  - N 06 15 09 E  220.000
+  - L 5818.000 09 14 40  938.711
+  - N 02 59 31 W  220.000
+  - R 5642.000 04 37 20  455.157
+  - N 88 22 11 W   20.000
+  - N 01 37 49 E 2201.410
+  - L 5100.000 18 26 00 1640.784
+  - N 16 48 11 W 2930.000
+  - N 73 11 49 E   20.000
+  - L    0.000 90 00 00    0.000  # Reposition for the following curve
+  # N 16 48 11 W    0.000  # Reposition for the following curve 
+  - R 5642.000 04 37 20 455.157
+  - N 12 10 51 W  220.000
+  - L 5818.000 09 14 40  938.711
+  - N 21 25 31 W  220.000
+  - R 5642.000 04 37 20  455.157
+  - S 73 11 49 W   20.000
+  - N 16 48 11 W 1390.410
+  - S 73 11 49 W  200.000
+  - S 16 48 11 E 1390.410
+  - S 73 11 49 W   20.000
+  - L    0.000 90 00 00    0.000  # Reposition for the following curve
+  # S 07 33 31 E    0.000  # Reposition for the following curve
+  - R 5642.000 04 37 20 455.157
+  - S 12 10 51 E  220.000
+  - L 5818.000 09 14 40  938.711
+  - S 21 25 31 E  220.000
+  - R 5642.000 04 37 20  455.157
+  - N 73 11 49 E   20.000
+  - S 16 48 11 E 2930.000
+  - R 4900.000 18 26 00 1576.440
+  - S 01 37 49 W 2201.410
+  - N 88 22 11 W   20.000
+  - L    0.000 90 00 00    0.000  # Reposition for the following curve
+  # S 10 53 09 W    0.000  # Reposition for the following curve
+  - R 5642.000 04 37 20  455.157
+  - S 06 15 09 W  220.000
+  - L 5818.000 09 14 40  938.711
+  - S 02 59 31 E  220.000
+  - R 5642.000 04 37 20  455.157
+  - S 88 22 11 E   20.000
+  - S 01 37 49 W  880.000
+  - R 4900.000 07 53 00  674.192
+  - S 09 30 49 W 2019.801
+
+---
+date: 1970-04-16
+doc: DOCC904590
+desc: "Merchandise Warehouse"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - S 86 24 13 W 527.555
+ shape:
+  - S 00 00 00 E 313.000
+  - N 90 00 00 W 475.000
+  - N 00 00 00 E 313.000
+  - N 90 00 00 E 475.000
+
+---
+date: 1970-04-16
+doc: DOCC904591
+desc: "Town Hall Complex"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 09 41 35 E 1181.570
+ shape:
+  - N 90 00 00 E  110.000
+  - S 00 00 00 E  190.000
+  - N 90 00 00 W  110.000
+  - N 00 00 00 E  190.000
+
+---
+date: 1970-04-20
+doc: DOCC905108
+desc: "Utilities to Riles Island and Islands 1, 2, 4 & 6 Parcel A"
+property:
+ origin: 24 27 12 W
+ type: centerline
+ beginning:
+  - S 00 03 34 E  483.449
+ shape:
+  - S 75 47 03 E  151.333
+  - S 77 51 59 E  204.570
+  - S 88 10 39 E  241.840
+  - N 64 51 33 E 1753.443
+ width: 20
+
+---
+date: 1970-04-20
+doc: DOCC905108
+desc: "Utilities to Riles Island and Islands 1, 2, 4 & 6 Parcel B"
+property:
+ origin: 24 27 12 W
+ type: centerline
+ beginning:
+  - S 00 03 34 E 483.449
+ shape:
+  - N 75 47 03 W 245.517
+ width: 20
+
+---
+date: 1970-04-20
+doc: DOCC905108
+desc: "Utilities to Riles Island and Islands 1, 2, 4 & 6 Parcel C"
+property:
+ origin: 24 27 11 E
+ type: centerline
+ beginning:
+  - S 75 23 35 W 994.963
+ shape:
+  - N 88 15 51 W 670.303
+  - S 65 14 16 W 710.000
+  - S 65 47 18 W 860.055
+ width: 20
+
+---
+date: 1970-05-01
+doc: DOCC907512
+desc: "Fire Station Site"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 32 26 26 E 1256.356
+ shape:
+  - N 00 00 00 E  200.000
+  - N 90 00 00 E  350.000
+  - S 00 00 00 E  200.000
+  - N 90 00 00 W  350.000
+
+---
+date: 1970-05-01
+doc: DOCC907513
+desc: "Boat Landing at Transportation Terminal"
+property:
+ origin: 24 27 11 S
+ beginning:
+  - N 18 04 44 E 163.522
+ shape:
+  - N 42 49 31 E  55.902
+  - S 72 50 51 E 169.541
+  - N 57 27 07 E 252.288
+  - S 52 44 41 E 178.404
+  - S 12 10 17 E 104.346
+  - S 66 59 28 W 237.929
+  - N 34 48 14 W  99.865
+  - S 72 38 46 W 167.631
+  - N 44 00 56 W 205.798
+
+---
+date: 1970-05-01
+doc: DOCC907514
+desc: "Fantasyland Castle"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 60 28 35 E 423.518
+ shape:
+  - N 90 00 00 E 119.167
+  - S 00 00 00 E 110.250
+  - N 90 00 00 W 119.167
+  - N 00 00 00 E 110.250
+
+---
+date: 1970-05-01
+doc: DOCC907515
+desc: "Boat Landing at Theme Park"
+property:
+ origin: 24 27 11 W
+ beginning:
+  - N 76 21 40 E 2851.078
+ shape:
+  - N 00 00 00 E  268.000
+  - N 90 00 00 E   84.000
+  - N 48 42 55 E  163.686
+  - N 90 00 00 E  169.000
+  - S 48 42 55 E  163.686
+  - N 90 00 00 E  126.000
+  - S 00 00 00 E  268.000
+  - N 90 00 00 W  625.000
+
+---
+date: 1970-05-01
+doc: DOCC907516
+desc: "Lagoon Underpass"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - S 23 02 25 W  714.090
+ shape:
+  - S 71 00 00 W  150.000
+  - N 19 00 00 W 1400.000
+  - N 71 00 00 E  150.000
+  - S 19 00 00 E 1400.000
+
+---
+date: 1970-05-19
+doc: DOCC910999
+desc: "Electrical Substation - Fantasyland"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 02 05 11 W 166.408
+ shape:
+  - N 00 00 00 E  50.000
+  - N 90 00 00 E  29.000
+  - S 00 00 00 E  50.000
+  - N 90 00 00 W  29.000
+
+---
+date: 1970-05-19
+doc: DOCC911000
+desc: "Monorail & Railroad Service Building"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 31 46 40 E 2134.227
+ shape:
+  - N 00 00 00 E  320.000
+  - N 90 00 00 E  120.000
+  - S 00 00 00 E  320.000
+  - N 90 00 00 W  120.000
+
+---
+date: 1970-05-19
+doc: DOCC911001
+desc: "Electrical Substation - Main Street"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 03 08 46 E 1292.650
+ shape:
+  - N 75 00 00 E   52.000
+  - S 15 00 00 E   52.000
+  - S 75 00 00 W   52.000
+  - N 15 00 00 W   52.000
+
+---
+date: 1970-06-03
+doc: DOCC914225
+desc: "Bridge over Canal L-405"
+property:
+ origin: 24 27 3 SW
+ beginning:
+  - N 61 03 03 E 892.456
+ shape:
+  - N 26 05 54 E 415.000
+  - S 63 54 06 E 125.000
+  - S 26 05 54 W 415.000
+  - N 63 54 06 W 125.000
+
+---
+date: 1970-07-19
+doc: DOCC924290
+desc: "Polynesian Resort"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 89 41 53 E 1098.79
+ shape:
+  - N 33 00 00 W  254.08
+  - N 19 36 00 E  536.50
+  - N 88 12 00 E 1275.67
+  - S 38 38 00 E  492.52
+  - S 15 00 00 W 1020.00
+  - N 90 00 00 W   55.00
+  - L  655.00 25 00 00 285.80
+  - S 65 00 00 W  509.92
+  - N 26 43 30 W    0.00  # Tangent bearing specified in the description
+  - L 1495.00 06 16 30 163.73
+  - N 33 00 00 W  889.92
+
+---
+date: 1970-07-31
+doc: DOCC926223
+desc: "Eletrical distribution"
+property:
+ type: centerline
+ origin: 24 27 2 W
+
+ # Paperwork doesn't give a clear point of beginning, so I've adjusted slightly
+ # based on other aspects of the description, as well as aerial photography.
+ beginning:
+  - N 00 07 46 W  200.13
+ shape:
+  # N 00 07 46 W  200.13
+  - N 86 46 57 E 1024.82
+  - N 77 38 06 E 1103.42
+  - N 53 19 21 E 1872.83
+ width: 4
+
+---
+date: 1970-10-22
+doc: DOCC944059
+desc: "Telephone and Computer Building"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - N 00 00 00 E 000.000  # Need to have something here, even though it's a no-op
+ shape:
+  - N 90 00 00 W 152.516
+  - N 00 00 00 E 103.907
+  - N 90 00 00 W 184.000
+  - N 00 00 00 E 350.000
+  - N 90 00 00 E 203.000
+  - N 00 00 00 E 110.000
+  - N 90 00 00 E 130.204
+
+  # Likely typo in the permit on file. The official distance is commented,
+  # but the corrected distance is used instead.
+  # S 00 19 30 E 583.916
+  - S 00 19 30 E 563.916
+
+---
+date: 1970-10-30
+doc: DOCC945856
+desc: "Great Ceremonial House"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 31 17 25 W 637.416
+ shape:
+  - S 00 00 00 E 210.000
+  - N 90 00 00 W 175.000
+  - N 00 00 00 E 160.000
+  - N 90 00 00 E  75.000
+  - N 00 00 00 E  50.000
+  - N 90 00 00 E 100.000
+
+---
+date: 1970-11-16
+doc: DOCC949088
+desc: "Town Square Hotel and Coffee Mill"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 24 22 17 E 1289.39
+ shape:
+  - N 90 00 00 E  139.17
+  - S 00 00 00 E   57.00
+  - N 90 00 00 W   60.92
+  - S 00 00 00 E   73.33
+  - N 90 00 00 W   78.25
+  - N 00 00 00 E  130.33
+
+---
+date: 1970-11-20
+doc: DOCC950136
+desc: "Main Entrance Complex"
+property:
+ origin: 24 27 11 S
+ beginning:
+  - N 89 41 52 E 350.83
+ shape:
+  - N 25 00 00 W  40.16
+  - N 65 00 00 E 277.00
+  - N 13 00 00 W  40.89
+  - N 65 00 00 E  70.00
+  - S 37 00 00 E 122.68
+  - N 80 21 37 E 231.03
+  - S 57 05 41 E 101.24
+  - S 24 19 53 E 115.00
+  - S 24 19 53 E 113.68
+  - S 36 00 00 E 129.22
+  - S 28 24 42 W 151.56
+  - L 75.00 99 24 42 130.13
+  - S 71 00 00 E  48.63
+  - S 19 00 00 W  40.00
+  - S 71 00 00 E 148.53
+  - S 00 00 00 E  95.18
+  - N 90 00 00 W 279.18
+  - N 18 00 00 W  50.65
+  - N 90 00 00 W 116.33
+  - S 18 00 00 W  13.84
+  - N 90 00 00 W  29.26
+  - N 18 00 00 E  40.92
+  - N 84 50 59 W   0.00  # Reposition for the following curve
+  - R 680.00 59 50 59 710.31
+  - N 25 00 00 W 121.39
+  - N 65 00 00 E  74.51
+  - N 25 00 00 W  39.84
+
+---
+date: 1970-12-28
+doc: DOCC956617
+desc: "River Boat Landing"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 50 34 13 W 113.74
+ shape:
+  - S 42 00 00 E  55.75
+  - S 05 00 00 W  81.46
+  - S 18 00 00 W 197.00
+  - N 72 00 00 W  13.00
+  - N 18 00 00 E  58.50
+  - N 21 01 28 W  76.78
+  - N 18 00 00 E  62.50
+  - N 71 27 55 E  20.73
+  - N 07 53 36 E  81.86
+  - N 42 00 00 W  22.00
+  - N 48 00 00 E  23.00
+
+---
+date: 1970-12-28
+doc: DOCC956618
+desc: "Victorian Pavilion"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 09 39 22 E 685.38
+ shape:
+  - S 56 18 36 E 187.14
+  - S 33 41 24 W 102.00
+  - N 56 18 36 W  54.06
+  - S 33 41 24 W  54.75
+  - N 56 18 36 W  86.92
+  - N 33 41 24 E  80.74
+  - N 56 18 36 W  46.14
+  - N 33 41 24 E  76.00
+
+---
+date: 1970-12-28
+doc: DOCC956671
+desc: "Laundry and Dry Cleaning Facility"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - S 34 09 43 W 174.55
+ shape:
+  - S 00 00 00 E 170.33
+  - N 90 00 00 W 133.00
+  - N 00 00 00 E  51.00
+  - N 90 00 00 W  49.83
+  - N 00 00 00 E 119.33
+  - N 90 00 00 E 182.83
+
+---
+date: 1970-12-28
+doc: DOCC956672
+desc: "Bear Band Theatre"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 37 33 46 W 605.79
+ shape:
+  - S 00 00 00 E  55.50
+  - N 90 00 00 W  24.50
+  - S 00 00 00 E  16.73
+  - S 67 19 01 W   3.77
+  - S 00 00 00 E  14.29
+  - S 45 00 00 W  23.36
+  - S 00 00 00 E  12.50
+  - N 90 00 00 W  63.50
+  - N 00 00 00 E 117.00
+  - N 90 00 00 E 108.00
+
+---
+date: 1970-12-28
+doc: DOCC956674
+desc: "Golf Course Maintenance Building"
+property:
+ origin: 24 27 22 E
+ beginning:
+  - N 22 42 31 W 1063.73
+ shape:
+  - N 90 00 00 W  200.00
+  - N 00 00 00 E  200.00
+  - N 90 00 00 E  257.14
+  - R 0.00 113 17 00 0.00  # Reposition for the following curve
+  - L 816.20 14 38 28 208.57
+
+---
+date: 1970-12-28
+doc: DOCC956675
+desc: "Peter Fan Facility and Ride"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 63 49 02 E 120.21
+ shape:
+  - S 75 00 00 E 137.62
+  - S 45 00 00 E  19.59
+  - S 45 00 00 W 152.84
+  - N 45 00 00 W  26.02
+  - N 75 00 00 W  55.63
+  - N 15 00 00 E 129.16
+
+---
+date: 1970-12-29
+doc: DOCC957106
+desc: "Keelboat Landing"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 78 49 10 W 123.38
+ shape:
+  - S 42 00 00 E  26.00
+  - S 48 00 00 W   6.00
+  - S 42 00 00 E  32.11
+  - S 48 00 00 W  24.67
+  - N 42 00 00 W  40.94
+  - N 48 00 00 E  10.17
+  - N 42 00 00 W  17.17
+  - N 48 00 00 E  20.50
+
+---
+date: 1970-12-31
+doc: DOCC958057
+desc: "Theme Park Monorail Station"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 10 39 45 E 1561.66
+ shape:
+  - S 15 00 00 W  150.00
+  - N 75 00 00 W  350.00
+  - N 15 00 00 E  150.00
+  - S 75 00 00 E  350.00
+
+---
+date: 1970-12-31
+doc: DOCC958058
+desc: "Hall of Presidents"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 59 01 58 E 184.56
+ shape:
+  - S 45 00 00 E 129.00
+  - S 45 00 00 W 114.00
+  - S 45 00 00 E  65.50
+  - S 45 00 00 W  22.00
+  - N 45 00 00 W  50.00
+  - N 67 30 00 W  60.00
+  - S 22 30 00 W  27.00
+  - N 67 30 00 W  54.00
+  - N 22 30 00 W  49.00
+  - N 22 30 00 E  24.00
+  - N 22 30 00 W  20.62
+  - N 45 00 00 E  82.75
+  - N 90 00 00 E  33.94
+  - N 45 00 00 E  49.00
+
+---
+date: 1971-01-08
+doc: DOCC959589
+desc: "M0-6"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 15 47 26 E 1006.69
+ shape:
+  - S 78 06 41 E  132.77
+  - S 00 00 00 E  168.00
+  - N 90 00 00 W  106.00
+  - N 00 00 00 E  152.00
+  - N 90 00 00 W   24.00
+  - N 00 00 00 E   43.00
+
+---
+date: 1971-01-08
+doc: DOCC959590
+desc: "M0-8"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 20 21 23 E 859.37
+ shape:
+  - N 90 00 00 E 105.00
+  - S 00 00 00 E 190.00
+  - N 78 06 41 W 132.77
+  - N 00 00 00 E  26.00
+  - N 90 00 00 E  35.00
+  - N 00 00 00 E 102.00
+  - N 90 00 00 W  10.00
+  - N 00 00 00 E  35.00
+
+---
+date: 1971-01-08
+doc: DOCC959591
+desc: "Employee Parking Lot and Clock Station"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - N 00 00 00 E   0.000  # Not sure what this is supposed to be yet
+ shape:
+  - S 00 00 29 E 346.09
+  - N 90 00 00 W 726.56
+  - N 00 00 00 E  80.00
+  - N 90 00 00 E 110.00
+  - N 00 00 00 E 160.00
+  - N 90 00 00 W 110.00
+  - N 00 00 00 E  34.00
+  - N 90 00 00 W 383.00
+  - N 00 00 00 E  16.00
+  - N 90 00 00 W 422.00  # Easterly right of way of a peripheral road
+  - N 00 00 00 E 166.82
+  - R 355.00 60 00 00 371.75
+  - N 60 00 00 E 708.09  # Southerly right of way of Reams Road
+  - S 43 20 27 E   0.00  # Reposition for the following curve
+  - L 546.86 46 21 00 442.39
+  - N 89 59 33 E 211.57
+  - S 00 00 00 E 129.00
+  - N 90 00 00 W 203.00
+  - S 00 00 00 E 370.00
+  - N 90 00 00 E 184.00
+  - S 00 00 00 E 103.01
+  - N 90 00 00 E 152.52
+
+---
+date: 1971-01-08
+doc: DOCC959592
+desc: "Tomorrowland Basements and Tunnel"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 83 28 36 E 807.17
+ shape:
+  - S 24 41 26 E 117.89
+  - N 69 30 00 E  40.31
+  - S 20 30 00 E 456.87
+  - S 00 00 00 E  73.73
+  - S 28 00 00 W 208.78
+  - N 78 18 30 W 236.90
+  - N 09 30 00 E 178.00
+  - S 80 30 00 E 234.84
+  - N 00 00 00 E  95.32
+  - N 80 30 00 W  65.90
+  - N 20 30 00 W  28.79
+  - N 80 30 00 W  72.92
+  - N 20 30 00 W  62.41
+  - N 39 30 00 E  42.87
+  - N 20 30 00 W 230.00
+  - N 63 30 00 E  57.02
+  - N 24 41 26 W  78.75
+  - N 30 00 00 E  52.00
+
+---
+date: 1971-01-15
+doc: DOCC961121
+desc: "Avac Equipment Building"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 62 20 00 W 1047.76
+ shape:
+  - S 05 45 00 E   32.93
+  - L 140.00 26 39 54 65.15
+  - R  42.00 29 33 09 21.66
+  - S 02 51 45 E   20.03
+  - R 220.00 08 04 55 31.03
+  - N 90 00 00 W  113.25
+  - N 02 28 27 E  165.35
+  - N 90 00 00 E   74.85
+
+---
+date: 1971-01-15
+doc: DOCC961122
+desc: "Steam Train Rail System - Main Line"
+property:
+ type: centerline
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 1443.02
+ shape:
+  - S 18 32 55 E  0.00  # Reposition for the following curve
+  - R  500.00 11 32 56 100.78
+  - S 07 00 00 E  280.00
+  - R  650.00 32 00 00 363.03
+  - S 25 00 00 W  235.00
+  - R  800.00 65 00 00 907.57
+  - N 90 00 00 W  778.86
+  - R  550.00 80 00 00 767.95
+  - N 10 00 00 W  947.98
+  - N 10 00 00 W   52.02
+  - R  500.00 28 00 00 244.35
+  - N 18 00 00 E  110.00
+  - R  500.00 33 55 01 195.98
+  - R 1500.00 13 05 32 342.75
+  - R  500.00 24 59 27 218.09
+  - N 90 00 00 E  919.73
+  - R  500.00 68 00 00 593.41
+  - S 22 00 00 E   36.51  # POB for spur line 1
+  - S 22 00 00 E  507.31
+  - R  500.00 03 27 04  30.12
+ width: 16
+
+---
+date: 1971-01-15
+doc: DOCC961122
+desc: "Steam Train Rail System - Spur Line 1"
+property:
+ type: centerline
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 1443.02
+  - S 18 32 55 E  0.00  # Reposition for the following curve
+  - R  500.00 11 32 56 100.78
+  - S 07 00 00 E  280.00
+  - R  650.00 32 00 00 363.03
+  - S 25 00 00 W  235.00
+  - R  800.00 65 00 00 907.57
+  - N 90 00 00 W  778.86
+  - R  550.00 80 00 00 767.95
+  - N 10 00 00 W  947.98
+  - N 10 00 00 W   52.02
+  - R  500.00 28 00 00 244.35
+  - N 18 00 00 E  110.00
+  - R  500.00 33 55 01 195.98
+  - R 1500.00 13 05 32 342.75
+  - R  500.00 24 59 27 218.09
+  - N 90 00 00 E  919.73
+  - R  500.00 68 00 00 593.41
+  - S 22 00 00 E   36.51
+ shape:
+  - N 16 16 32 W   80.00
+  - R  500.00 08 16 32  72.22
+  - N 08 00 00 W  288.21
+  - R  500.00 08 00 00  69.81
+  - N 00 00 00 E  340.94  # POB for spur line 3
+  - N 00 00 00 E  218.11  # POB for spur line 2
+  - N 00 00 00 E  254.16
+ width: 16
+
+---
+date: 1971-01-15
+doc: DOCC961122
+desc: "Steam Train Rail System - Spur Line 2"
+property:
+ type: centerline
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 1443.02
+  - S 18 32 55 E  0.00  # Reposition for the following curve
+  - R  500.00 11 32 56 100.78
+  - S 07 00 00 E  280.00
+  - R  650.00 32 00 00 363.03
+  - S 25 00 00 W  235.00
+  - R  800.00 65 00 00 907.57
+  - N 90 00 00 W  778.86
+  - R  550.00 80 00 00 767.95
+  - N 10 00 00 W  947.98
+  - N 10 00 00 W   52.02
+  - R  500.00 28 00 00 244.35
+  - N 18 00 00 E  110.00
+  - R  500.00 33 55 01 195.98
+  - R 1500.00 13 05 32 342.75
+  - R  500.00 24 59 27 218.09
+  - N 90 00 00 E  919.73
+  - R  500.00 68 00 00 593.41
+  - S 22 00 00 E   36.51
+  - N 16 16 32 W   80.00
+  - R  500.00 08 16 32  72.22
+  - N 08 00 00 W  288.21
+  - R  500.00 08 00 00  69.81
+  - N 00 00 00 E  340.94
+  - N 00 00 00 E  218.11
+ shape:
+  - N 05 43 29 E  135.40
+  - L  500.00 05 43 29  49.95
+  - N 00 00 00 E   69.56
+ width: 16
+
+---
+date: 1971-01-15
+doc: DOCC961122
+desc: "Steam Train Rail System - Spur Line 3"
+property:
+ type: centerline
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 1443.02
+  - S 18 32 55 E  0.00  # Reposition for the following curve
+  - R  500.00 11 32 56 100.78
+  - S 07 00 00 E  280.00
+  - R  650.00 32 00 00 363.03
+  - S 25 00 00 W  235.00
+  - R  800.00 65 00 00 907.57
+  - N 90 00 00 W  778.86
+  - R  550.00 80 00 00 767.95
+  - N 10 00 00 W  947.98
+  - N 10 00 00 W   52.02
+  - R  500.00 28 00 00 244.35
+  - N 18 00 00 E  110.00
+  - R  500.00 33 55 01 195.98
+  - R 1500.00 13 05 32 342.75
+  - R  500.00 24 59 27 218.09
+  - N 90 00 00 E  919.73
+  - R  500.00 68 00 00 593.41
+  - S 22 00 00 E   36.51
+  - N 16 16 32 W   80.00
+  - R  500.00 08 16 32  72.22
+  - N 08 00 00 W  288.21
+  - R  500.00 08 00 00  69.81
+  - N 00 00 00 E  340.94
+ shape:
+  - N 05 43 29 E   40.00
+  - R  500.00 05 45 58  50.32
+  - N 11 29 27 E   50.00
+  - L  500.00 05 45 58  50.32
+  - N 05 43 29 E   30.00
+  - N 00 00 00 E  254.16
+ width: 16
+
+---
+date: 1971-01-15
+doc: DOCC961122
+desc: "Steam Train Rail System - Spur Line 3"
+property:
+ type: centerline
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 1443.02
+  - S 18 32 55 E  0.00  # Reposition for the following curve
+  - R  500.00 11 32 56 100.78
+  - S 07 00 00 E  280.00
+  - R  650.00 32 00 00 363.03
+  - S 25 00 00 W  235.00
+  - R  800.00 65 00 00 907.57
+  - N 90 00 00 W  778.86
+  - R  550.00 80 00 00 767.95
+  - N 10 00 00 W  947.98
+  - N 10 00 00 W   52.02
+  - R  500.00 28 00 00 244.35
+  - N 18 00 00 E  110.00
+  - R  500.00 33 55 01 195.98
+  - R 1500.00 13 05 32 342.75
+  - R  500.00 24 59 27 218.09
+  - N 90 00 00 E  919.73
+  - R  500.00 68 00 00 593.41
+  - S 22 00 00 E   36.51
+  - N 16 16 32 W   80.00
+  - R  500.00 08 16 32  72.22
+  - N 08 00 00 W  288.21
+  - R  500.00 08 00 00  69.81
+  - N 00 00 00 E  340.94
+  - N 05 43 29 E   40.00
+  - R  500.00 05 45 58  50.32
+  - N 11 29 27 E   50.00
+  - L  500.00 05 45 58  50.32
+  - N 05 43 29 E   30.00
+ shape:
+  - N 05 43 29 E   73.00  # POB spur line 5
+  - N 05 43 29 E   62.40
+  - L  500.00 05 43 29  49.96
+  - N 00 00 00 E   69.56
+ width: 16
+
+---
+date: 1971-01-15
+doc: DOCC961122
+desc: "Steam Train Rail System - Spur Line 3"
+property:
+ type: centerline
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 1443.02
+  - S 18 32 55 E  0.00  # Reposition for the following curve
+  - R  500.00 11 32 56 100.78
+  - S 07 00 00 E  280.00
+  - R  650.00 32 00 00 363.03
+  - S 25 00 00 W  235.00
+  - R  800.00 65 00 00 907.57
+  - N 90 00 00 W  778.86
+  - R  550.00 80 00 00 767.95
+  - N 10 00 00 W  947.98
+  - N 10 00 00 W   52.02
+  - R  500.00 28 00 00 244.35
+  - N 18 00 00 E  110.00
+  - R  500.00 33 55 01 195.98
+  - R 1500.00 13 05 32 342.75
+  - R  500.00 24 59 27 218.09
+  - N 90 00 00 E  919.73
+  - R  500.00 68 00 00 593.41
+  - S 22 00 00 E   36.51
+  - N 16 16 32 W   80.00
+  - R  500.00 08 16 32  72.22
+  - N 08 00 00 W  288.21
+  - R  500.00 08 00 00  69.81
+  - N 00 00 00 E  340.94
+  - N 05 43 29 E   40.00
+  - R  500.00 05 45 58  50.32
+  - N 11 29 27 E   50.00
+  - L  500.00 05 45 58  50.32
+  - N 05 43 29 E   30.00
+  - N 05 43 29 E   73.00
+ shape:
+  - N 11 26 58 E   74.40
+  - L  500.00 11 26 58  99.92
+  - N 00 00 00 E    9.36
+ width: 16
+
+---
+date: 1971-01-15
+doc: DOCC961123
+desc: "Paint Shop Storage Tanks"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - N 17 38 14 W 2306.63
+ shape:
+  - N 90 00 00 W   28.00
+  - N 00 00 00 E   58.00
+  - N 90 00 00 E   28.00
+  - S 00 00 00 E   58.00
+
+---
+date: 1971-03-11
+doc: DOCC973656
+desc: "Railroad Swing Bridge"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 73 02 47 W 894.829
+ shape:
+  - N 18 00 00 E 155.875
+  - N 72 00 00 W  20.000
+  - S 18 00 00 W 155.875
+  - S 72 00 00 E  20.000
+
+---
+date: 1971-03-11
+doc: DOCC973657
+desc: "Skyway Tension Station Site"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 65 36 18 W 1374.690
+ shape:
+  - S 70 35 25 W   62.708
+  - S 19 24 35 E   66.403
+  - S 09 30 00 W   73.992
+  - S 80 30 00 E   59.125
+  - N 09 30 00 E   96.645
+  - N 19 24 35 W   75.156
+
+---
+date: 1971-03-12
+doc: DOCC973920
+desc: "Care Care Center"
+property:
+ origin: 24 27 14 SE
+ beginning:
+  - N 19 36 09 E 530.47
+ shape:
+  - N 78 51 36 W 479.70
+  - N 33 51 36 W 321.02
+  - N 56 08 24 E 318.20
+  - S 78 51 36 E 488.70
+  - S 33 51 36 E 155.56
+  - S 11 08 24 W 225.00
+  - S 56 08 24 W 165.46
+
+---
+date: 1971-03-29
+doc: DOCC977263
+desc: "Telephone Antenna Site"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - N 47 10 00 W 460.25
+ shape:
+  - N 90 00 00 W  41.00
+  - N 00 00 00 E  36.00
+  - N 90 00 00 E  41.00
+  - S 00 00 00 E  36.00
+
+---
+date: 1971-03-31
+doc: DOCC978029
+desc: "Boat Lock Site"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 64 16 51 W 1160.67
+ shape:
+  - N 56 00 00 W  200.00
+  - S 34 00 00 W  370.00
+  - S 56 00 00 E  200.00
+  - N 34 00 00 E  370.00
+
+hidden: true
+reason: Geometry is significantly off from what's described in the document
+
+---
+date: 1971-04-02
+doc: DOCC978589
+desc: "Mickey Mouse Music Hall"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 59 01 59 E 184.554
+ shape:
+  - N 45 00 00 E 137.844
+  - S 45 00 00 E 179.918
+  - S 45 00 00 W 101.812
+  - N 45 00 00 W  33.938
+  - N 90 00 00 W  23.998
+  - S 45 00 00 W  19.062
+
+---
+date: 1971-04-28
+doc: DOCC984984
+desc: "Skyway Transfer Station"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 1187.856
+  - S 00 00 00 E   27.478
+ shape:
+  - S 51 32 05 E   16.500
+  - S 10 27 29 W   22.163
+  - S 19 24 35 E   33.812
+  - S 70 35 25 W   21.000
+  - N 19 24 35 W   35.904
+  - N 51 32 05 W   11.438
+  - N 83 39 35 W   35.904
+  - N 06 20 25 E   21.000
+  - S 83 39 35 E   33.812
+  - N 66 28 33 E   22.163
+
+---
+date: 1971-06-28
+doc: DOCC999506
+desc: "Grand Prix de Goodyear Parcel A"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 89 35 51 W 1251.582
+ shape:
+  - S 89 35 51 W  418.730
+  - N 28 30 00 E  302.529
+  - S 69 15 00 E  219.345
+  - S 20 30 00 E  197.736
+
+---
+date: 1971-06-28
+doc: DOCC999506
+desc: "Grand Prix de Goodyear Parcel B"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 89 35 51 W 1251.582
+ shape:
+  - S 20 30 00 E  478.848
+  - S 69 30 00 W  478.366
+  - N 20 30 00 W  548.727
+  - N 28 30 00 E  112.801
+  - N 89 35 51 E  418.731
+
+---
+date: 1971-06-28
+doc: DOCC999507
+desc: "Candy Factory"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 87 15 23 E 599.629
+ shape:
+  - S 00 00 00 E  24.000
+  - N 90 00 00 W  72.000
+  - S 45 00 00 W   7.114
+  - N 45 00 00 W  13.498
+  - N 00 00 00 E  10.059
+  - N 45 00 00 E   2.884
+  - N 45 00 00 W  13.813
+  - N 45 00 00 E  28.000
+  - S 45 00 00 E  15.809
+  - N 90 00 00 E  49.804
+  - N 00 00 00 E  18.000
+  - N 90 00 00 E  37.000
+  - S 00 00 00 E   8.000
+  - N 90 00 00 E  11.188
+  - S 00 00 00 E  21.000
+  - N 90 00 00 W  34.667
+
+---
+date: 1971-07-09
+doc: DOCC1002047
+desc: "Fantasyland Pavilion and Bandstand"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 73 09 07 E 429.894
+ shape:
+  - N 90 00 00 E  86.026
+  - S 00 00 00 E  16.418
+  - S 45 00 00 E  19.470
+  - N 90 00 00 E  10.980
+  - N 45 00 00 E  11.472
+  - N 00 00 00 E  10.979
+  - N 45 00 00 W   8.324
+  - N 00 00 00 E  52.693
+  - N 45 00 00 W  64.888
+  - N 90 00 00 W  67.544
+  - S 00 00 00 E  16.936
+  - S 45 00 00 W  29.100
+  - S 45 00 00 E   5.000
+  - N 45 00 00 E  16.329
+  - S 45 00 00 E   8.375
+  - S 00 00 00 E  57.943
+
+---
+date: 1971-07-09
+doc: DOCC1002048
+desc: "Hay Barn"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - N 28 18 38 W 1905.10
+ shape:
+  - N 90 00 00 W   70.00
+  - N 00 00 00 E   70.00
+  - N 90 00 00 E   70.00
+  - S 00 00 00 E   70.00
+
+---
+date: 1971-07-09
+doc: DOCC1002049
+desc: "Draft and Riding Horse Barn"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - N 42 41 57 W 2337.97
+ shape:
+  - N 90 00 00 W  130.00
+  - N 00 00 00 E   55.00
+  - N 90 00 00 E  130.00
+  - S 00 00 00 E   55.00
+
+---
+date: 1971-07-09
+doc: DOCC1002050
+desc: "General Store"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - N 23 29 25 W 2562.06
+ shape:
+  - N 27 28 28 W  111.00
+  - N 62 31 32 E   63.17
+  - S 27 28 28 E  111.00
+  - S 62 31 32 W   63.17
+
+---
+date: 1971-07-09
+doc: DOCC1002051
+desc: "Blacksmith Shop"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - N 39 06 13 W 2248.99
+ shape:
+  - N 90 00 00 W   40.00
+  - N 00 00 00 E   35.00
+  - N 90 00 00 E   40.00
+  - S 00 00 00 E   35.00
+
+---
+date: 1971-07-09
+doc: DOCC1002052
+desc: "East Courtyard Building"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 75 58 10 E 452.45
+ shape:
+  - N 90 00 00 E  40.00
+  - S 00 00 00 E  39.00
+  - S 45 00 00 E  67.87
+  - N 45 00 00 E  17.00
+  - S 45 00 00 E  17.00
+  - S 45 00 00 W  30.00
+  - N 90 00 00 W  50.62
+  - N 45 00 00 W  56.86
+  - N 00 00 00 E  68.00
+
+---
+date: 1971-07-09
+doc: DOCC1002053
+desc: "West Courtyard Building"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 75 08 53 E 406.95
+ shape:
+  - S 45 00 00 E  29.00
+  - S 45 00 00 W  13.25
+  - S 00 00 00 E  17.93
+  - N 90 00 00 W  16.33
+  - S 00 00 00 E  14.67
+  - N 90 00 00 W   4.92
+  - S 45 00 00 W  10.50
+  - S 45 00 00 E  16.58
+  - S 45 00 00 W  18.83
+  - N 45 00 00 W  11.08
+  - S 45 00 00 W  47.97
+  - N 45 00 00 W  31.97
+  - N 45 00 00 E  18.21
+  - N 45 00 00 W   6.00
+  - N 45 00 00 E  61.87
+  - N 00 00 00 E  23.00
+  - N 90 00 00 E  11.25
+  - N 00 00 00 E   6.00
+  - N 90 00 00 E  11.31
+  - N 45 00 00 E  12.10
+
+---
+date: 1971-07-23
+doc: DOCC1006118
+desc: "Golf Course Clubhouse"
+property:
+ origin: 24 27 15 NE
+ beginning:
+  - S 17 28 27 W 1107.39
+ shape:
+  - S 27 00 00 E  173.00
+  - S 63 00 00 W  146.67
+  - N 27 00 00 W  173.00
+  - N 63 00 00 E  146.67
+
+---
+date: 1971-07-23
+doc: DOCC1006119
+desc: "Mile Long Bar"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 41 28 53 W 721.73
+ shape:
+  - S 00 00 00 E 109.00
+  - N 90 00 00 W 129.00
+  - N 00 00 00 E  20.00
+  - N 90 00 00 W  62.00
+  - N 00 00 00 E  54.00
+  - N 45 58 16 E  41.73
+  - N 68 20 38 E  73.16
+  - N 90 00 00 E  24.00
+  - S 73 04 21 E  72.13
+
+---
+date: 1971-07-23
+doc: DOCC1006120
+desc: "Car Barn"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 08 27 50 E 1113.83
+ shape:
+  - N 90 00 00 E  134.00
+  - S 00 00 00 E   48.00
+  - N 90 00 00 W  104.00
+  - N 00 00 00 E   32.00
+  - N 90 00 00 W   30.00
+  - N 00 00 00 E   16.00
+
+---
+date: 1971-07-23
+doc: DOCC1006121
+desc: "Liberty Square Shops"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 10 28 07 E 373.93
+ shape:
+  - S 68 20 38 E  73.16
+  - S 07 38 07 E  35.66
+  - S 82 21 53 W  35.05
+  - N 68 38 07 W  66.74
+  - N 35 38 07 W  20.62
+  - N 54 21 53 E  44.50
+
+---
+date: 1971-07-23
+doc: DOCC1006122
+desc: "Food Perparation & Storage Facility"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - S 86 31 48 W 943.25
+ shape:
+  - S 00 00 00 E 289.00
+  - N 90 00 00 W 770.00
+  - N 00 00 00 E 289.00
+  - N 90 00 00 E 770.00
+
+---
+date: 1971-07-23
+doc: DOCC1006123
+desc: "First Aid and Baby Change Station"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 12 39 21 E 834.99
+ shape:
+  - N 90 00 00 E  86.00
+  - S 00 00 00 E  57.00
+  - S 33 41 24 W 115.66
+  - N 56 18 36 W 103.17
+  - N 33 41 24 E 115.38
+
+---
+date: 1971-07-23
+doc: DOCC1006124
+desc: "Main Street Building MO-5"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 23 37 04 E 1085.64
+ shape:
+  - N 90 00 00 E   94.00
+  - N 00 00 00 E   45.00
+  - N 90 00 00 E   55.00
+  - S 00 00 00 E   85.00
+  - N 90 00 00 W   20.00
+  - S 00 00 00 E  130.00
+  - N 90 00 00 W  129.00
+  - N 00 00 00 E  170.00
+
+---
+date: 1971-07-23
+doc: DOCC1006125
+desc: "AD/FRONT Complex"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 18 24 10 W 489.39
+ shape:
+  - S 00 00 00 E 130.34
+  - S 77 14 27 W  92.43
+  - N 69 49 48 W  98.70
+  - N 08 43 46 W  87.63
+  - N 81 16 14 E 198.40
+
+---
+date: 1971-07-23
+doc: DOCC1006126
+desc: "AD/LIB Complex"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 18 24 10 W 489.39
+ shape:
+  - N 45 00 00 E 133.87
+  - N 90 00 00 E 106.78
+  - S 00 00 00 E 151.84
+  - S 15 00 00 E 127.50
+  - S 75 00 00 W 114.92
+  - N 57 08 15 W 146.96
+  - N 00 00 00 E 130.34
+
+---
+date: 1971-07-23
+doc: DOCC1006127
+desc: "Chicken & Fish Parcel A"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 89 33 41 W 98.586
+ shape:
+  - N 45 00 00 W 12.208
+  - N 45 00 00 E 13.893
+  - S 45 00 00 E 10.000
+  - S 45 00 00 W  3.893
+  - S 45 00 00 E  9.501
+  - N 45 00 00 E  6.492
+  - S 45 00 00 E  8.947
+  - S 89 33 41 W 23.146
+
+---
+date: 1971-07-23
+doc: DOCC1006127
+desc: "Chicken & Fish Parcel B"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 89 33 41 W 98.586
+ shape:
+  - S 45 00 00 E 15.858
+  - N 45 00 00 E  6.490
+  - S 45 00 00 E 16.000
+  - S 45 00 00 W 12.749
+  - S 45 00 00 E 48.042
+  - N 90 00 00 E 21.213
+  - N 45 00 00 E 20.855
+  - S 45 00 00 E 13.467
+  - S 23 00 00 W 48.964
+  - S 67 00 00 E 10.592
+  - S 15 00 00 W 44.889
+  - S 75 00 00 E 32.906
+  - S 45 00 00 E 27.924
+  - N 45 00 00 E 80.053
+  - N 90 00 00 E 30.143
+  - N 45 00 00 E 37.883
+  - N 45 00 00 W 17.341
+  - N 75 00 00 W 35.302
+  - N 15 00 00 E 20.382
+  - N 45 00 00 W 27.317
+  - N 20 00 00 W 24.687
+  - S 71 15 13 W 45.248
+  - S 45 00 00 W 16.250
+  - N 45 00 00 W 48.999
+  - S 45 00 00 W 21.420
+  - N 45 00 00 W 16.920
+  - S 45 00 00 W 20.686
+  - N 45 00 00 W 26.741
+  - S 89 33 41 W 23.146
+
+---
+date: 1971-07-23
+doc: DOCC1006128
+desc: "Recreational Vehicle Park Including Bay Lake Rd Parcel A-1"
+property:
+ type: centerline
+ origin: 24 28 18 SW
+ beginning:
+  - N 89 47 43 E 1313.15
+  - N 00 07 28 E 1069.01
+ shape:
+  - N 00 07 28 E  385.00
+  - R 3526.17 02 26 13 149.98
+  - N 02 33 41 E  205.38
+  - L  647.82 17 33 01 198.43
+  - N 14 59 20 W   70.92
+  - L  919.64 18 31 39 297.38
+  - N 33 30 59 W  165.83
+  - L  580.43 09 50 49  99.75
+  - N 43 21 48 W   97.11
+  - R  925.62 18 24 36 297.41
+  - N 24 57 12 W 1051.95
+  - R 2198.36 02 36 21  99.98
+  - N 22 20 51 W  155.56
+ width: 36
+
+---
+date: 1971-07-23
+doc: DOCC1006128
+desc: "Recreational Vehicle Park Including Bay Lake Rd Parcel A-2"
+property:
+ type: centerline
+ origin: 24 28 18 SW
+ beginning:
+  - N 89 47 43 E 1313.15
+  - N 00 07 28 E 1069.01
+  - N 00 07 28 E  385.00
+  - R 3526.17 02 26 13 149.98
+  - N 02 33 41 E  205.38
+  - L  647.82 17 33 01 198.43
+  - N 14 59 20 W   70.92
+  - L  919.64 18 31 39 297.38
+  - N 33 30 59 W  165.83
+  - L  580.43 09 50 49  99.75
+  - N 43 21 48 W   97.11
+  - R  925.62 18 24 36 297.41
+  - N 24 57 12 W 1051.95
+  - R 2198.36 02 36 21  99.98
+  - N 22 20 51 W  155.56
+ shape:
+  - N 22 20 51 W  488.54
+  - L 1180.36 06 15 41 128.99
+ width: 32
+
+---
+date: 1971-07-23
+doc: DOCC1006128
+desc: "Recreational Vehicle Park Including Bay Lake Rd Parcel B"
+property:
+ type: centerline
+ origin: 24 27 13 NE
+ beginning:
+  - S 00 00 13 W 670.82
+ shape:
+  - N 28 36 32 W   0.00  # End position from parcel A-2
+  - L 1180.36 06 10 08 127.09
+  - N 34 46 40 W 340.78
+  - R  932.69 12 14 22 199.24
+  - N 22 32 18 W 115.75
+ width: 32
+
+---
+date: 1971-07-23
+doc: DOCC1006128
+desc: "Recreational Vehicle Park Including Bay Lake Rd Parcel C"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - S 89 47 49 W  400.90
+ shape:
+  - S 89 47 49 W  117.60
+  - N 00 00 00 E 1329.57
+  - N 28 32 23 W  562.39
+  - S 58 40 17 W  709.80
+  - N 14 02 10 W  103.08
+  - N 58 40 17 E  673.15
+  - N 34 49 28 W  700.45
+  - N 75 57 50 E  103.08
+  - S 29 03 16 E  257.39
+  - N 67 22 48 E  650.00
+  - S 81 52 12 E  424.71
+  - S 00 02 43 W 1339.94
+  - N 90 00 00 W  119.39
+  - S 00 00 00 E 1128.15
+  - S 89 47 49 W  282.40
+
+---
+date: 1971-07-23
+doc: DOCC1006128
+desc: "Recreational Vehicle Park Including Bay Lake Rd Parcel D"
+property:
+ origin: 24 28 7 SW
+ beginning:
+  - N 00 02 43 E 1127.73
+ shape:
+  - N 00 02 43 E 1339.94
+  - S 81 52 12 E  282.39
+  - S 00 00 00 E 1300.00
+  - N 90 00 00 W  280.62
+
+---
+date: 1971-07-23
+doc: DOCC1006129
+desc: "Main Street Building MO-7"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 28 41 31 E 905.94
+ shape:
+  - N 90 00 00 E 109.00
+  - S 00 00 00 E 155.00
+  - N 90 00 00 W  15.00
+  - S 00 00 00 E  45.00
+  - N 90 00 00 W  94.00
+  - N 00 00 00 E 200.00
+
+---
+date: 1971-07-28
+doc: DOCC1007015
+desc: "Tomorrowland Terrace & Moonride"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 76 47 50 E 852.47
+ shape:
+  - N 90 00 00 E  71.00
+  - S 20 33 22 E 393.02
+  - S 47 54 39 W  83.55
+  - N 79 16 41 W 172.00
+  - N 20 24 19 W 266.74
+  - N 39 00 09 E 182.73
+
+---
+date: 1971-07-28
+doc: DOCC1007016
+desc: "Circle Vision Theatre & Annex"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 51 03 48 E 1025.84
+ shape:
+  - S 81 31 17 E  162.78
+  - S 32 10 00 E   86.28
+  - S 28 45 09 W  128.89
+  - N 79 31 51 W  187.12
+  - N 16 25 20 W   99.04
+  - N 39 35 46 E  105.12
+
+---
+date: 1971-07-28
+doc: DOCC1007017
+desc: "V.I.P. Parking Lot at Main Entrance Complex"
+property:
+ origin: 24 27 14 N
+ beginning:
+  - S 78 54 53 E 311.74
+ shape:
+  - S 32 28 45 E 390.73
+  - S 67 49 45 E 431.94
+  - S 00 00 00 E 100.00
+  - N 90 00 00 W 995.00
+  - N 00 00 00 E 413.00
+  - N 65 00 00 E 425.00
+
+---
+date: 1971-07-28
+doc: DOCC1007018
+desc: "Bus Parking Lot at Main Entrance Complex Parcel A"
+property:
+ origin: 24 27 11 SE
+ beginning:
+  - S 89 41 52 W 960.25
+ shape:
+  - S 89 41 52 W 343.21
+  - N 25 01 01 E 207.83
+  - S 79 01 10 E 341.25
+  - S 33 15 16 W 145.32
+
+---
+date: 1971-07-28
+doc: DOCC1007018
+desc: "Bus Parking Lot at Main Entrance Complex Parcel B"
+property:
+ origin: 24 27 11 SE
+ beginning:
+  - S 89 41 52 W 960.25
+ shape:
+  - S 89 41 52 W 343.21
+  - S 25 01 01 W 123.23
+  - S 43 09 09 W 219.32
+  - S 27 53 50 W 192.35
+  - S 71 30 14 E 296.31
+  - S 00 00 00 E 124.00
+  - N 90 00 00 E  34.00
+  - N 00 00 00 E 173.00
+  - N 33 15 16 E 584.13
+
+---
+date: 1971-07-28
+doc: DOCC1007019
+desc: "Stroller Building"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 19 17 39 E 1488.29
+ shape:
+  - S 00 00 00 E   15.25
+  - N 90 00 00 E   50.67
+  - S 00 00 00 E   56.25
+  - N 90 00 00 W   76.00
+  - S 00 00 00 E   16.00
+  - N 90 00 00 E  102.21
+  - N 00 00 00 E   28.00
+  - N 90 00 00 E   28.19
+  - N 00 00 00 E    8.50
+  - N 90 00 00 E   14.35
+  - N 00 00 00 E   18.00
+  - N 90 00 00 E   20.75
+  - N 00 00 00 E   16.00
+  - N 90 00 00 W   20.75
+  - N 00 00 00 E   17.00
+  - N 90 00 00 W  119.42
+
+---
+date: 1971-07-28
+doc: DOCC1007020
+desc: "Merchandise Building"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 09 00 29 E 1421.23
+ shape:
+  - N 90 00 00 E  123.58
+  - S 00 00 00 E   11.00
+  - N 90 00 00 W   38.83
+  - S 00 00 00 E   61.50
+  - N 90 00 00 E   70.83
+  - S 00 00 00 E   16.00
+  - N 90 00 00 W  109.02
+  - N 00 00 00 E   29.00
+  - N 90 00 00 W   31.56
+  - N 00 00 00 E    9.50
+  - N 90 00 00 W   15.00
+  - N 00 00 00 E   50.00
+
+---
+date: 1971-07-28
+doc: DOCC1007021
+desc: "Main Parking Lot Toll Plaza"
+property:
+ origin: 24 27 13 SW
+ beginning:
+  - N 61 18 10 E 1091.10
+ shape:
+  - N 39 48 43 W   32.00
+  - N 46 19 44 E   79.06
+  - N 16 48 07 W   40.00
+  - N 01 19 49 E   96.82
+  - N 73 11 49 E   11.23
+  - S 16 48 07 E   90.00
+  - N 73 11 49 E  185.00
+  - S 16 48 07 E   65.00
+  - S 73 11 49 W  185.00
+  - S 16 48 07 E   90.00
+  - S 73 11 49 W   11.29
+  - N 34 56 12 W   75.65
+  - S 52 43 58 W   68.89
+
+---
+date: 1971-09-07
+doc: DOCC1018373
+desc: "S.T.O.L. Port"
+property:
+ origin: 24 27 13 NW
+ beginning:
+  - S 09 51 54 E  959.22
+ shape:
+  - S 17 32 40 E 1138.48
+  - N 72 27 20 E  236.00
+  - S 17 32 40 E 2161.52
+  - N 72 27 20 E  200.00
+  - N 17 32 40 W 3300.00
+  - S 72 27 20 W  436.00
+
+---
+date: 1971-10-08
+doc: DOCC1027161
+desc: "Carousel Ride Parcel A"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 89 35 51 E 378.95
+ shape:
+  - N 89 35 51 E  80.00
+  - N 00 00 00 E   6.07
+  - N 90 00 00 W  80.00
+  - S 00 00 00 E   6.07
+
+---
+date: 1971-10-08
+doc: DOCC1027161
+desc: "Carousel Ride Parcel B"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 378.95
+ shape:
+  - N 89 35 51 E  80.00
+  - S 00 00 00 E  73.93
+  - N 90 00 00 W  80.00
+  - N 00 00 00 E  73.93
+
+---
+date: 1971-10-08
+doc: DOCC1027162
+desc: "Tea Cup Ride"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 86 14 59 E 846.08
+ shape:
+  - N 90 00 00 E  80.00
+  - S 00 00 00 E  80.00
+  - N 90 00 00 W  80.00
+  - N 00 00 00 E  80.00
+
+---
+date: 1971-10-08
+doc: DOCC1027163
+desc: "Dumbo Ride"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 87 27 03 E 456.39
+ shape:
+  - N 00 00 00 E  70.00
+  - N 90 00 00 E  70.00
+  - S 00 00 00 E  70.00
+  - N 90 00 00 W  70.00
+
+---
+date: 1972-02-07
+doc: DOCC1058092
+desc: "Eastern Airlines Show"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 66 55 54 W 1821.97
+ shape:
+  - S 38 26 37 E   79.26
+  - S 19 11 53 W   62.71
+  - S 80 36 00 W   50.69
+  - S 28 00 00 W  109.50
+  - N 80 30 00 W  153.14
+  - N 09 30 00 E   64.00
+  - N 40 12 49 E   58.83
+
+  - S 49 47 11 E    0.00  # Tangent bearing for the following curve
+  - L 54.00 129 22 26 121.93
+
+  - S 89 09 37 E   24.23
+  - N 09 30 00 E   62.39
+  - S 80 30 00 E   52.59
+
+---
+date: 1972-02-11
+doc: DOCC1059713
+desc: "Columbia Harbour House, Liberty Square Parcel A"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 89 33 41 W 98.586
+ shape:
+  - N 45 00 00 W 12.208
+  - N 45 00 00 E 13.893
+  - S 45 00 00 E 10.000
+  - S 45 00 00 W  3.893
+  - S 45 00 00 E  9.501
+  - N 45 00 00 E  6.492
+  - S 45 00 00 E  8.947
+  - S 89 33 41 W 23.146
+
+---
+date: 1972-02-11
+doc: DOCC1059713
+desc: "Columbia Harbour House, Liberty Square Parcel B"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 89 33 41 W 98.586
+ shape:
+  - S 45 00 00 E 15.858
+  - N 45 00 00 E  6.490
+  - S 45 00 00 E 16.000
+  - S 45 00 00 W 12.749
+  - S 45 00 00 E 48.042
+  - N 90 00 00 E 21.213
+  - N 45 00 00 E 20.855
+  - S 45 00 00 E 13.467
+  - S 23 00 00 W 48.964
+  - S 67 00 00 E 10.592
+  - S 15 00 00 W 44.889
+  - S 75 00 00 E 32.906
+  - S 45 00 00 E 27.924
+  - N 45 00 00 E 80.053
+  - N 90 00 00 E 30.143
+  - N 45 00 00 E 37.883
+  - N 45 00 00 W 17.341
+  - N 75 00 00 W 35.302
+  - N 15 00 00 E 20.382
+  - N 45 00 00 W 27.317
+  - N 20 00 00 W 24.687
+  - S 71 15 13 W 45.248
+  - S 45 00 00 W 16.250
+  - N 45 00 00 W 48.999
+  - S 45 00 00 W 21.420
+  - N 45 00 00 W 16.920
+  - S 45 00 00 W 20.686
+  - N 45 00 00 W 26.741
+  - S 89 33 41 W 23.146
+
+---
+date: 1972-02-11
+hidden: true
+reason: No document included
+
+---
+date: 1972-02-29
+doc: DOCC1064054
+desc: Comfort Station at Loop "G" Recreational Vehicle Park - Phase II
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - N 56 02 09 W 831.23
+ shape:
+  - N 50 35 52 W  38.00
+  - N 39 24 08 E  73.33
+  - S 50 35 52 E  38.00
+  - S 39 24 08 W  73.33
+
+---
+date: 1972-02-29
+doc: DOCC1064054
+desc: Comfort Station at Loop "H" Recreational Vehicle Park - Phase II
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - N 16 57 17 E 586.30
+ shape:
+  - N 28 11 10 W  38.00
+  - N 61 48 50 E  73.33
+  - S 28 11 10 E  38.00
+  - S 61 48 50 W  73.33
+
+---
+date: 1972-07-10
+doc: DOCC1099631
+desc: "Construct Barefoot Bar at Polynesian Village Hotel"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 78 24 23 E 1843.01
+ shape:
+  - N 00 00 00 E   20.00
+  - N 90 00 00 E   20.00
+  - S 00 00 00 E   20.00
+  - N 90 00 00 W   20.00
+
+---
+date: 1972-07-27
+doc: DOCC1104607
+desc: "Monorail Train Shed and Spurline Addition"
+hidden: true
+reason: Property description not included
+
+---
+date: 1972-08-09
+doc: DOCC1108780
+desc: "Construct Haunted Mansion Weather Canopies Parcel A"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 87 20 48 W 179.25
+ shape:
+  - N 79 30 31 W  54.92
+  - N 08 07 48 E  14.14
+  - S 83 25 05 E  52.35
+  - S 00 00 00 E  18.00
+
+---
+date: 1972-08-09
+doc: DOCC1108780
+desc: "Construct Haunted Mansion Weather Canopies Parcel B"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 66 55 22 W 151.90
+ shape:
+  - N 83 00 00 W  10.00
+  - N 07 00 00 E  17.00
+  - N 38 00 00 W  16.32
+  - N 52 00 00 E  10.00
+  - S 38 00 00 E  20.46
+  - S 07 00 00 W  21.14
+
+---
+date: 1972-08-09
+doc: DOCC1108781
+desc: "Construct Main Entrance Tram Loading Shelter Extenstion"
+property:
+ origin: 24 27 14 N
+ beginning:
+  - S 85 09 22 E 1233.59
+ shape:
+  - S 50 28 00 E   17.00
+  - S 39 32 00 W    0.00  # Reposition for the following curve
+  - R 356.00 13 46 00  85.84
+  - N 36 42 00 W   11.00
+  - S 53 18 00 W    0.00  # Reposition for the following curve
+  - R 345.00 33 42 00 202.92
+  - N 03 00 00 W    6.00
+  - N 87 00 00 E    0.00  # Reposition for the following curve
+  - L 339.00 47 28 00 280.84
+
+---
+date: 1972-08-09
+doc: DOCC1108782
+desc: "Construct Hall of Presidents Weather Shelter"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 11 56 46 W 169.37
+ shape:
+  - S 82 43 30 E  47.38
+  - S 09 43 48 E  69.70
+  - S 22 30 00 W   8.00
+  - S 67 30 00 E  16.00
+  - S 22 30 00 W  20.00
+  - S 67 30 00 E  21.00
+  - S 22 30 00 W   3.50
+  - S 67 30 00 E  25.00
+  - N 22 30 00 E   3.50
+  - S 67 30 00 E  12.00
+  - S 22 30 00 W  23.00
+  - N 67 30 00 W  57.00
+  - N 60 24 42 W  73.56
+  - N 05 35 14 E  92.44
+
+---
+date: 1972-08-09
+doc: DOCC1108783
+desc: "Construct Main Entrance Complex Picnic Area"
+property:
+ origin: 24 27 14 N
+ beginning:
+  - S 75 27 58 E 1074.12
+ shape:
+  - N 90 00 00 E   21.00
+  - S 17 55 41 E  178.68
+  - N 90 00 00 W  165.00
+  - N 00 00 00 E   55.00
+  - S 82 11 59 E   73.68
+  - N 19 34 23 E   47.76
+  - N 00 00 00 E   80.00
+
+---
+date: 1972-08-09
+doc: DOCC1108784
+desc: "Construct E. Loop Utilidor Ext. & Hub Rest. Basement"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 66 12 15 W 2166.23
+ shape:
+  - S 80 30 00 E   87.00
+  - S 09 30 00 W   43.00
+  - S 80 30 00 E  101.00
+  - S 62 00 00 E   59.88
+  - S 28 00 00 W   56.64
+  - N 62 00 00 W   54.00
+  - N 28 00 00 E   17.00
+  - N 80 30 00 W  130.00
+  - S 45 00 00 W   87.00
+  - N 90 00 00 W   15.00
+  - N 00 00 00 E   40.00
+  - N 45 00 00 E   36.00
+  - N 09 30 00 E   87.00
+
+---
+date: 1972-08-09
+doc: DOCC1108785
+desc: "Construct Liberty Square Beverage Bar"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 04 04 15 E 421.766
+ shape:
+  - S 72 00 25 E 123.02
+  - S 22 37 12 W  52.00
+  - N 90 00 00 W  97.00
+  - N 00 00 00 E  86.00
+
+---
+date: 1972-08-17
+doc: DOCC1111569
+desc: "Construct Walt Disney Story Theater"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 32 46 14 E 1444.623
+ shape:
+  - S 00 00 00 E   90.000
+  - N 90 00 00 W   38.000
+  - S 36 01 39 W   27.203
+  - S 00 00 00 E   39.000
+  - N 90 00 00 W  101.000
+  - S 00 00 00 E   14.000
+  - N 90 00 00 W   20.000
+  - N 00 00 00 E   17.000
+  - N 90 00 00 E    4.000
+  - N 00 00 00 E  130.000
+  - N 90 00 00 E   10.000
+  - S 00 00 00 E    4.000
+  - N 90 00 00 E   18.000
+  - N 00 00 00 E    9.000
+  - N 90 00 00 E   32.000
+  - N 50 54 22 E   20.616
+  - N 90 00 00 E   95.000
+
+---
+date: 1972-08-17
+doc: DOCC1111570
+desc: "East Show Facility Restrooms"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 84 24 27 E 785.113
+ shape:
+  - S 25 50 43 E  61.655
+  - S 07 31 33 E  31.976
+  - S 29 44 42 W  24.187
+  - S 51 33 46 W  40.215
+  - N 49 21 13 W  56.802
+  - N 29 59 56 E 111.068
+
+---
+date: 1972-11-30
+doc: DOCC1140506
+desc: "Construct Tom Sawyer's Island Parcel A"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - S 89 33 41 W 370.32
+ shape:
+  - S 89 33 41 W  60.76
+  - N 35 56 32 W 195.89
+  - N 22 53 26 W 244.23
+  - N 39 22 10 E 252.24
+  - N 68 11 55 E 215.41
+  - S 36 52 12 E 125.00
+  - S 45 42 26 W 286.40
+  - S 08 31 51 W 202.24
+  - S 24 06 08 E 173.24
+
+---
+date: 1972-11-30
+doc: DOCC1140506
+desc: "Construct Tom Sawyer's Island Parcel B"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - S 89 33 41 W 370.32
+ shape:
+  - S 24 06 08 E  34.91
+  - S 66 15 02 E 136.57
+  - S 45 00 00 E  77.78
+  - S 20 08 11 W 159.77
+  - S 59 02 10 W  58.31
+  - S 84 17 22 W 100.50
+  - N 56 18 36 W  72.11
+  - N 00 00 00 E 100.00
+  - N 19 17 24 E 105.95
+  - N 05 42 38 E  50.14
+  - N 35 56 32 W  51.14
+  - N 89 33 41 E  60.76
+
+---
+date: 1972-11-30
+doc: DOCC1140507
+desc: "Construct Pirates of the Caribbean Facility & Ride Site Improvements for West Side Expansion"
+property:
+ origin: 24 27 11 NW
+ beginning:
+  - S 69 04 09 E 1622.00
+ shape:
+  - N 90 00 00 E  132.28
+  - S 00 00 00 E   69.68
+  - N 90 00 00 E  417.72
+  - N 00 00 00 E   54.68
+  - N 90 00 00 E   20.00
+  - S 00 00 00 E  130.00
+  - N 90 00 00 E  230.00
+  - S 00 00 00 E   50.00
+  - S 80 00 00 W  126.85
+  - S 15 00 00 W  257.89
+  - S 45 00 00 E   78.33
+  - S 39 35 31 W   70.00
+  - S 56 57 08 E  310.90
+  - N 90 00 00 E   70.29
+  - S 00 00 00 E  100.00
+  - N 90 00 00 W  316.29
+  - N 50 37 03 W  819.89
+  - N 00 00 00 E  324.79
+
+---
+date: 1972-12-06
+doc: DOCC1142009
+desc: "Construct Covered Luau at Polynesian Village Hotel"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 64 58 09 E 1132.309
+ shape:
+  - N 60 56 05 E   41.500
+  - N 29 03 55 W   33.000
+  - N 60 56 05 E   26.335
+  - N 15 56 05 E   54.933
+  - S 74 03 55 E   87.195
+  - S 29 03 55 E   86.372
+  - S 15 56 05 W   87.195
+  - N 74 03 55 W   54.933
+  - S 60 56 05 W   26.335
+  - N 29 03 55 W   33.000
+  - S 60 56 05 W   41.500
+  - N 29 03 55 W   66.000
+
+---
+date: 1972-12-27
+doc: DOCC1147674
+desc: "Construct Addition to Polynesian Village Hotel Parcel A"
+property:
+ origin: 24 27 14 NW
+ beginning:
+  - N 89 41 53 E 1553.43
+ shape:
+  - N 89 41 53 E   15.19
+  - S 75 00 00 E   27.35
+  - N 15 00 00 E    7.48
+  - N 89 41 53 E   62.20
+  - S 15 00 00 W   99.90
+  - S 75 00 00 E   60.00
+  - S 15 00 00 W  125.00
+  - N 75 00 00 W   83.00
+  - N 15 00 00 E   29.00
+  - N 75 00 00 W   37.00
+  - N 15 00 00 E   25.00
+  - N 75 00 00 W   42.00
+  - N 15 00 00 E  142.99
+
+---
+date: 1972-12-27
+doc: DOCC1147674
+desc: "Construct Addition to Polynesian Village Hotel Parcel B"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 89 41 53 E 1596.97
+ shape:
+  - N 89 41 53 E   62.20
+  - N 15 00 00 E   22.10
+  - N 75 00 00 W   60.00
+  - S 15 00 00 W   38.52
+
+---
+date: 1972-12-27
+doc: DOCC1147674
+desc: "Construct Addition to Polynesian Village Hotel Parcel C"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 89 41 53 E 1553.43
+ shape:
+  - N 89 41 53 E   15.19
+  - N 75 00 00 W   14.65
+  - S 15 00 00 W    4.01
+
+---
+date: 1973-01-03
+doc: DOCC1149345
+desc: "Construct Monorail Train Shed"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - N 34 14 11 W 2305.13
+ shape:
+  - N 00 00 00 E  210.00
+  - N 90 00 00 W  115.00
+  - S 00 00 00 E  210.00
+  - N 90 00 00 E  115.00
+
+---
+date: 1973-01-10
+doc: DOCC1152017
+desc: "Construct Swan Boat Storage Facility"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 00 49 57 W 829.79
+ shape:
+  - S 28 32 24 E  64.89
+  - S 46 44 09 E  46.69
+  - S 22 06 34 W  34.54
+  - S 40 54 52 W  19.85
+  - N 50 30 01 W  95.90
+  - N 90 00 00 W  63.00
+  - N 30 57 50 W   5.83
+  - N 90 00 00 W  52.00
+  - N 38 49 47 W  52.63
+  - N 57 46 16 E  54.38
+  - N 90 00 00 E 140.00
+
+# ---
+# date: 1973-01-
+
+---
+date: 1973-01-31
+doc: DOCC1159721
+desc: "Construct Tom Sawyer's Island Parcel A"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - S 89 33 41 W 370.32
+ shape:
+  - S 89 33 41 W  60.76
+  - N 35 56 32 W 195.89
+  - N 22 53 26 W 244.23
+  - N 39 22 10 E 252.24
+  - N 68 11 55 E 215.41
+  - S 36 52 12 E 125.00
+  - S 45 42 26 W 286.40
+  - S 08 31 51 W 202.24
+  - S 24 06 08 E 173.24
+
+---
+date: 1973-01-31
+doc: DOCC1159721
+desc: "Construct Tom Sawyer's Island Parcel B"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - S 89 33 41 W 370.32
+ shape:
+  - S 24 06 08 E  34.91
+  - S 66 15 02 E 136.57
+  - S 45 00 00 E  77.78
+  - S 20 08 11 W 159.77
+  - S 59 02 10 W  58.31
+  - S 84 17 22 W 100.50
+  - N 56 18 36 W  72.11
+  - N 00 00 00 E 100.00
+  - N 19 17 24 E 105.95
+  - N 05 42 38 E  50.14
+  - N 35 56 32 W  51.14
+  - N 89 33 41 E  60.76
+
+---
+date: 1973-02-09
+doc: DOCC1163246
+desc: "Addition to West Gate Building Parcel A"
+property:
+ origin: 24 27 11 SE
+ beginning:
+  - S 89 41 52 W 2031.82
+ shape:
+  - S 89 41 52 W  220.63
+  - N 17 28 29 W   37.05
+  - N 65 00 03 E  196.40
+  - S 38 39 35 E   57.63
+  - S 62 55 41 E   50.54
+  - S 26 33 54 E   22.36
+  - S 68 11 55 W   48.47
+  - S 34 45 21 E   13.60
+
+---
+date: 1973-02-09
+doc: DOCC1163246
+desc: "Addition to West Gate Building Parcel B"
+property:
+ origin: 24 27 11 SE
+ beginning:
+  - S 89 41 52 W 2031.82
+ shape:
+  - S 34 45 51 E   46.04
+  - S 48 21 59 W   30.10
+  - N 33 48 29 W   67.40
+  - S 62 43 24 W   72.01
+  - S 43 59 42 W   40.31
+  - S 54 27 44 W    8.60
+  - N 72 45 31 W   60.73
+  - N 37 44 48 W   39.21
+  - N 17 28 29 W   19.56
+  - N 89 41 52 E  220.63
+
+---
+date: 1973-02-09
+doc: DOCC1163247
+desc: "East Side Expansion and Space Mountain Parcel A"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - S 89 35 51 W 1040.50
+ shape:
+  - S 89 35 51 W  153.38
+  - N 21 48 05 W  263.97
+  - N 21 29 08 W  505.10
+  - N 90 00 00 E   50.00
+  - S 22 04 04 E  399.25
+  - N 90 00 00 E   90.00
+  - S 21 48 05 E  323.11
+  - S 30 57 50 E   51.33
+
+---
+date: 1973-02-09
+doc: DOCC1163247
+desc: "East Side Expansion and Space Mountain Parcel B"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - S 89 35 51 W 1040.50
+ shape:
+  - S 30 57 50 E    6.98
+  - S 42 52 44 E   95.53
+  - S 51 20 25 E  128.06
+  - S 82 08 48 E  146.37
+  - S 45 00 00 E   42.43
+  - S 30 57 50 E   58.31
+  - S 02 51 45 E  100.13
+  - S 19 17 24 W  105.95
+  - S 20 08 11 W  319.53
+  - S 29 03 17 W  205.91
+  - N 41 25 25 W  226.72
+  - N 23 11 55 E   76.16
+  - N 38 09 26 W  178.05
+  - N 11 18 36 W  101.98
+  - N 00 00 00 E  200.00
+  - N 05 42 38 W  201.00
+  - N 16 41 57 W   52.20
+  - N 21 48 05 W    5.29
+  - N 89 35 51 E  153.38
+
+---
+date: 1973-05-23
+doc: DOCC1203426
+desc: "Construction Pirates of the Caribbean Facility, Show and Entrance Complex"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 31 47 38.6 W 1032.65
+ shape:
+  - S 00 00 00   E  187.00
+  - N 90 00 00   W  176.50
+  - N 00 00 00   E  122.50
+  - N 90 00 00   W   88.50
+  - S 00 00 00   E   37.50
+  - N 90 00 00   W  181.50
+  - N 00 00 00   E   82.50
+  - N 90 00 00   W   62.50
+  - N 00 00 00   E  172.50
+  - N 90 00 00   E  244.00
+  - S 00 00 00   E   70.00
+  - N 90 00 00   E   70.00
+  - S 00 00 00   E   36.86
+  - N 90 00 00   E   38.58
+  - S 00 00 00   E   18.14
+  - N 90 00 00   E  101.25
+  - S 00 00 00   E   28.00
+  - N 90 00 00   E   55.17
+
+---
+date: 1973-05-23
+doc: DOCC1203427
+desc: "Construct Caribbean Plaza South"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 45 02 27 W 973.807
+ shape:
+  - S 60 00 00 E 150.00
+  - N 90 00 00 E  50.00
+  - S 00 00 00 E  26.60
+  - N 90 00 00 E 138.11
+  - S 00 00 00 E   9.83
+  - N 90 00 00 W  80.00
+  - S 00 00 00 E  15.17
+  - N 90 00 00 W  10.06
+  - S 00 00 00 E 26 30 00 W  44.70
+  - S 00 00 00 E  50.00
+  - N 90 00 00 W  50.00
+  - S 00 00 00 E  55.00
+  - N 90 00 00 W  31.01
+  - N 00 00 00 E  80.00
+  - N 90 00 00 W  50.00
+  - N 00 00 00 E  25.00
+  - N 90 00 00 W 108.50
+  - N 00 00 00 E  10.00
+  - N 90 00 00 W  18.50
+  - N 00 00 00 E  10.00
+  - N 90 00 00 W  41.99
+  - N 00 00 00 E  10.00
+  - N 90 00 00 E  41.99
+  - N 00 00 00 E  50.00
+  - N 30 00 00 E  50.00
+
+---
+date: 1973-05-31
+doc: DOCC1206374
+desc: "Construct Golf Course Clubhouse Expansion"
+property:
+ origin: 24 27 15 NE
+ beginning:
+  - S 22 41 44 W 1026.13
+ shape:
+  - S 27 00 00 E  304.42
+  - S 63 00 00 W  129.50
+  - N 27 00 00 W   60.00
+  - S 63 00 00 W   21.00
+  - N 27 00 00 W  123.34
+  - N 63 00 00 E   51.00
+  - N 27 00 00 W   67.75
+  - N 63 00 00 E   61.17
+  - N 27 00 00 W   53.33
+  - N 63 00 00 E   38.33
+
+---
+date: 1973-05-31
+doc: DOCC1206375
+desc: "Construct Golf Course Clubhouse Hotel Addition (Villas) Parcel A"
+property:
+ origin: 24 27 15 E
+ beginning:
+  - N 00 01 25 W 1168.09
+ shape:
+  - S 73 03 22 W  244.83
+  - N 64 00 49 W  221.38
+  - S 61 55 39 W  153.00
+  - N 27 03 31 W  208.86
+  - S 64 58 59 W   33.11
+  - N 28 00 13 W  195.94
+  - N 61 55 39 E  153.00
+  - S 26 55 40 E  141.32
+  - N 63 26 06 E  109.57
+  - S 28 42 54 E  131.13
+  - S 86 23 44 E  127.25
+  - N 68 14 13 E  277.80
+  - N 00 00 00 E  205.00
+  - N 26 05 44 E   54.56
+  - S 42 16 59 E   23.77
+
+  # S 00 01 25 E  509.06  # Documented distance is 509.06, but doesn't line up
+  - S 00 01 25 E  510.06
+
+---
+date: 1973-05-31
+doc: DOCC1206375
+desc: "Construct Golf Course Clubhouse Hotel Addition (Villas) Parcel B"
+property:
+ origin: 24 27 15 E
+ beginning:
+  - N 00 01 25 W 1168.09
+ shape:
+  # N 00 01 25 W  509.06  # Documented distance is 509.06, but doesn't line up
+  - N 00 01 25 W  510.06
+
+  - S 42 16 59 E  393.89
+  - S 47 01 17 W  300.71
+  - S 73 03 22 W   46.83
+
+---
+date: 1973-08-07
+doc: DOCC1232758
+desc: "Construct Caribbean Plaza North"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 51 11 48 W 827.74
+ shape:
+  - S 00 00 00 E  58.00
+  - N 90 00 00 E  41.00
+  - S 00 00 00 E  21.00
+  - N 90 00 00 E  80.00
+  - S 00 00 00 E  77.00
+  - S 44 10 11 E  97.59
+  - N 90 00 00 E  25.00
+  - S 00 00 00 E  44.99
+  - N 90 00 00 W  78.11
+  - N 00 00 00 E  26.60
+  - N 90 00 00 W  50.00
+  - N 60 00 00 W 150.00
+  - S 30 00 00 W  33.96
+  - N 00 00 00 E 122.81
+  - N 18 12 31 E  80.01
+  - N 90 00 00 E  36.00
+
+---
+date: 1973-10-04
+doc: DOCC1255860
+desc: "Construct Elevated Wedway System People Mover"
+property:
+ type: centerline
+ origin: 24 27 11 NE
+ beginning:
+  - S 72 10 23 W 1180.52
+ shape:
+  - N 82 30 00 W   87.91
+  - L 53.50 24 30 00
+  - S 73 00 00 W  120.88
+ width: 20
+
+---
+date: 1973-10-04
+doc: DOCC1255860
+desc: "Construct Elevated Wedway System People Mover"
+property:
+ type: centerline
+ origin: 24 27 11 NE
+ beginning:
+  - S 72 10 23 W 1180.52
+  - N 07 30 00 E    3.50
+ shape:
+  - N 82 30 00 W   87.91
+  - L 57.00 24 30 00
+  - S 73 00 00 W  120.88
+ width: 20
+hidden: true
+reason: Actual track location, extrapolated from other centerline information
+
+---
+date: 1973-10-04
+doc: DOCC1255860
+desc: "Construct Elevated Wedway System People Mover"
+property:
+ type: centerline
+ origin: 24 27 11 NE
+ beginning:
+  - S 72 10 23 W 1180.52
+  - S 07 30 00 W    3.50
+ shape:
+  - N 82 30 00 W   87.91
+  - L 50.00 24 30 00
+  - S 73 00 00 W  120.88
+ width: 20
+hidden: true
+reason: Actual track location, extrapolated from other centerline information
+
+---
+date: 1973-10-04
+doc: DOCC1255860
+desc: "Construct Elevated Wedway System People Mover"
+property:
+ type: centerline
+ origin: 24 27 11 NE
+ beginning:
+  - S 72 10 23 W 1180.52
+  - N 82 30 00 W   87.91
+  - L 53.50 24 30 00
+  - S 73 00 00 W  120.88
+  - N 17 00 00 W    3.50  # Jog the center line
+  - S 73 00 00 W    0.00  # Return to original bearing
+ shape:
+  - S 73 00 00 W  224.40
+  - R 50.00 26 30 00
+  - N 80 30 00 W   92.58
+ width: 20
+
+---
+date: 1973-10-04
+doc: DOCC1255860
+desc: "Construct Elevated Wedway System People Mover"
+property:
+ type: centerline
+ origin: 24 27 11 NE
+ beginning:
+  - S 72 10 23 W 1180.52
+  - N 82 30 00 W   87.91
+  - L 53.50  24 30 00
+  - S 73 00 00 W  120.88
+  - S 17 00 00 E    3.50  # Jog the center line
+  - S 73 00 00 W    0.00  # Return to original bearing
+ shape:
+  - L 50.00  92 24 35
+  - S 19 24 35 E  165.82
+  - R 50.00  28 54 35
+  - S 09 30 00 W   86.85
+  - L 50.00  05 00 00
+  - S 04 30 00 W  105.58
+  - R 20.00  55 28 50
+  - S 59 58 50 W   13.41
+  - R 20.00  79 45 35
+  - L 92.50 120 00 00
+  - R 20.00  79 45 35
+  - N 80 30 00 W  138.23
+ width: 20
+
+---
+date: 1973-10-15
+doc: DOCC1260942
+desc: "Fort Wilderness Food & Recreation Building"
+property:
+ origin: 24 27 12 E
+ beginning:
+  - S 72 50 38 W 1299.38
+ shape:
+  - S 12 00 00 E  250.333
+  - S 78 00 00 W  154.250
+  - N 12 00 00 W  250.333
+  - N 78 00 00 E  154.250
+
+---
+date: 1973-10-15
+doc: DOCC1260943
+desc: "Campground Trading Post No. 2"
+property:
+ origin: 24 27 13 NE
+ beginning:
+  - S 11 53 56 W 945.71
+ shape:
+  - S 60 00 00 W  82.00
+  - S 30 00 00 E 195.00
+  - N 60 00 00 E  82.00
+  - N 30 00 00 W 195.00
+
+---
+date: 1973-11-30
+doc: DOCC1281433
+desc: "Construct Switch Station No. 1 Utilities in Peripheral Roadways"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 58 18 13 W 689.19
+ shape:
+  - S 25 00 00 W 170.00
+  - S 48 16 10 E 219.82
+  - N 90 00 00 W 275.00
+  - S 00 00 00 E  30.00
+  - S 90 00 00 E 220.00
+  - S 00 00 00 E 165.00
+  - S 90 00 00 E  50.00
+  - N 00 00 00 E 145.00
+  - S 90 00 00 E  80.00
+  - N 00 00 00 E  60.00
+  - N 50 38 35 W 252.14
+  - N 25 00 00 E 130.00
+  - N 65 00 00 W  35.00
+
+---
+date: 1974-03-06
+doc: DOCC1320834
+desc: "Construct a Break Area in Fantasyland Basement"
+property:
+ origin: 24 27 2 S  # Doc says SW corner, but S lines up perfectly
+ beginning:
+  - N 50 38 51 E 371.08
+ shape:
+  - N 00 00 00 E  24.00
+  - N 90 00 00 E 120.00
+  - S 00 00 00 E  24.00
+  - N 90 00 00 W 120.00
+
+---
+date: 1974-03-12
+doc: DOCC1322915
+desc: "Parade Storage Building"
+property:
+ origin: 24 27 11 NW
+ beginning:
+  - S 71 37 39 E 1346.41
+ shape:
+  - S 90 00 00 E 347.00
+  - S 03 26 01 W 200.36
+  - N 90 00 00 W  48.00
+  - S 00 00 00 W 247.00
+  - N 90 00 00 W 287.00
+  - N 00 00 00 W 447.00
+
+---
+date: 1975-07-24
+doc: DOCC1483053
+desc: "Convert the southeast corner of the fourth floor of the Contemporary Hotel from its present use to a new dining facility - Outer Rim Restaurant"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - N 00 07 38 W 479.39
+ shape:
+  - N 90 00 00 E  68.26
+  - N 00 00 00 E 460.00
+  - N 90 00 00 W 250.00
+
+  # N 90 00 00 E 391.74  # Original line stated in the document
+  # S 00 00 00 E 391.74  # First attempt at straightening it out
+
+  # Adjustment based on what I believe to be the original intent
+  - S 00 00 00 E 460.00
+  - N 90 00 00 E 181.74
+
+---
+date: 1975-07-24
+doc: DOCC1483054
+desc: "Furnish and install a pressurized diatomaceous earth filter system with chemical treatment for an eleven million gallon body of water"
+property:
+ origin: 24 27 2 S
+ beginning:
+  - N 77 38 20 E 540.04
+ shape:
+  - N 00 00 00 E 112.00
+  - N 40 00 00 E  67.50
+  - N 90 00 00 E 120.00
+  - S 52 00 00 E 128.00
+  - N 90 00 00 E  51.16
+  - N 00 00 00 E  47.79
+  - N 43 46 52 W 132.97
+  - N 00 00 00 E 160.83
+  - N 90 00 00 E 220.00
+  - S 00 00 00 E 305.67
+  - N 90 00 00 W  32.00
+  - S 00 00 00 E  91.98
+  - S 01 23 53 E  40.99
+  - S 48 00 00 W  41.29
+  - S 68 00 00 W  52.00
+  - N 90 00 00 W  88.67
+  - N 31 00 00 E  33.05
+  - N 78 16 09 W 126.00
+  - S 11 43 46 W  21.00
+  - S 84 00 00 W  33.00
+  - N 56 18 37 W 119.47
+
+---
+date: 1975-07-24
+doc: DOCC1483055
+desc: "Construct a 32 ft. x 105 ft. two-story structural streel and concrete extension on the southeast corner of the existing Monorail/Train Shed Building"
+property:
+ origin: 24 27 2 SE  # Document states SW corner, but SE lines up perfectly
+ beginning:
+  - N 45 11 20 W 1769.29
+ shape:
+  - S 50 00 00 W   35.00
+  - N 40 00 00 W  202.06
+  - N 00 00 00 E  736.47
+  - N 90 00 00 E  115.00
+  - S 00 00 00 E  799.00
+  - S 30 51 59 E   81.27
+
+---
+date: 1975-09-05
+doc: DOCC1495337
+desc: "Construct a water recreational area consisting of a cove, water slides, swimming pool, wading pool, playground, snack bar, locker room and appurtenant structures"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - S 89 47 49 W 1418.50
+  - N 00 00 00 E 1582.76
+ shape:
+  - N 00 00 00 E  750.00
+  - N 90 00 00 W 1100.00
+  - S 00 00 00 E  750.00
+  - N 90 00 00 E 1100.00  # Document states 750 feet, but 1100 gets back to POB
+
+---
+date: 1975-10-10
+doc: DOCC1505767
+desc: "Construct a gravity drain system for the Ticket and Transportation Center Tram Underpass"
+property:
+ origin: 24 27 14 NE
+ beginning:
+  - S 89 41 52 W 1615.57
+  - S 00 00 00 E  645.02
+ shape:
+  - S 00 00 00 E  175.00
+  - N 90 00 00 W  740.00
+  - N 00 00 00 E  175.00
+  - N 90 00 00 E  740.00
+
+---
+date: 1975-10-10
+doc: DOCC1505768
+desc: "Construct an approximately 2500 SF masonry and wood Kennel facility and all appurtenances"
+property:
+ origin: 24 28 18 SW
+ beginning:
+  - N 00 04 09 W 1948.70
+  - N 90 00 00 E 1920.81
+ shape:
+  - N 90 00 00 E  139.00
+  - N 00 00 00 E  113.00
+  - N 90 00 00 W  139.00
+  - S 00 00 00 E  113.00
+
+---
+date: 1975-10-10
+doc: DOCC1505769
+desc: "Construct an approximately 410-car expansion to the existing parking lot at Fort Wilderness"
+property:
+ origin: 24 28 7 SW
+ beginning:
+  - N 89 04 00 E 131.52
+  - N 00 00 00 E 525.59
+ shape:
+  - N 00 00 00 E 100.00
+  - N 90 00 00 E 100.00
+  - S 00 00 00 E 100.00
+  - N 90 00 00 W 100.00
+hidden: true
+reason: Geometry isn't even close to what's described in the document
+
+---
+date: 1975-12-10
+doc: DOCC1522681
+desc: "Construct within the North Service Area Maintenance Shop Building two grinding rooms, one spray booth and a break area room"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - N 83 11 37 W  117.343
+ shape:
+  - S 00 00 00 E  215.000
+  - N 90 00 00 E  115.000
+  - S 00 00 00 E  815.000
+  - N 90 00 00 W 1235.000
+  - N 00 00 00 E  635.000
+  - N 90 00 00 W  330.000
+  - N 00 00 00 E  395.000
+  - N 90 00 00 E 1450.000
+
+---
+date: 1976-01-15
+doc: DOCC1532253
+desc: "For Tri-Circle-D Ranch construction of the following: Stable, Corral, Blacksmith Shop, Office, Restrooms, Hay Barn, Equipment Shed and all Ancillary Facilities"
+property:
+ origin: 24 28 18 SW
+ beginning:
+  - N 00 04 09 W 1948.70
+  - N 90 00 00 E 1930.81
+ shape:
+  - N 90 00 00 E 1720.00
+  - N 00 00 00 E 1500.00
+  - N 90 00 00 W 1720.00
+  - S 00 00 00 E 1500.00
+
+---
+date: 1976-01-15
+doc: DOCC1532254
+desc: "Construct: A Snack Bar, Comfort Station Service Dock and Road, Guest Rain Shelter, Bird Cage with two entrance building and boardwalks"
+property:
+ origin: 24 27 12 NW
+ beginning:
+  - S 00 07 28 E 1763.30
+  - N 90 00 00 E 2069.20
+ shape:
+  - N 90 00 00 E 1000.00
+  - S 00 00 00 E 1000.00
+  - N 90 00 00 W 1000.00
+  - N 00 00 00 E 1000.00
+
+---
+date: 1976-02-09
+doc: DOCC1538684
+desc: "Construct a greenhouse approximately 83' x 96' of structural steel framing with a fiberglass skin and all ancillary equipment and facilities"
+property:
+ origin: 24 27 26 W
+ beginning:
+  - N 00 44 00 E 366.17
+ shape:
+  - N 90 00 00 E  83.62
+  - N 00 00 00 E 200.00
+  - N 90 00 00 W  81.06
+  - N 90 00 00 W 118.24
+  - S 00 00 00 E 200.00
+  - N 90 00 00 E 116.38
+
+---
+date: 1976-03-01
+doc: DOCC1544861
+desc: "At Fort Wilderness construct two road loops Nos. 2000 and 2100 with three comfort stations and 114 new campsites including all utilities and ancillary facilities"
+property:
+ origin: 24 28 18 NW
+ beginning:
+  - S 00 00 13 W 1072.27
+ shape:
+  - N 90 00 00 E  281.57
+  - S 00 00 00 E  400.00
+  - N 90 00 00 W  281.60
+  - N 90 00 00 W 1218.40
+  - N 00 00 00 E 1100.00
+  - N 90 00 00 E  680.00
+  - S 21 05 32 E  750.27
+  - N 90 00 00 E  268.43
+
+---
+date: 1976-05-17
+doc: DOCC1567036
+desc: "Construct 1/2 mile of third lane and extend the box culvert on the main entrance road to Walt Disney World"
+property:
+ origin: 25 27 1 N
+ beginning:
+  - S 08 44 25 E  673.731
+ shape:
+  - S 80 29 11 E  100.000
+  - S 09 30 49 W 1588.000
+  - S 15 11 05 W  612.672
+  - S 20 51 21 W  686.138
+  - N 69 08 39 W  100.000
+  - N 20 51 21 E  686.138
+  - N 15 11 05 E  592.907
+  - N 09 30 49 E 1588.800
+
+---
+date: 1976-07-23
+doc: DOCC1586968
+desc: "Construct a 24' wide by approximately 1000' long asphalt roadway and two landscape berms"
+property:
+ origin: 24 28 18 NW
+ beginning:
+  - N 89 00 04 E 1281.70
+  - S 00 00 00 E 1394.61
+ shape:
+  - S 00 00 00 E 1500.00
+  - N 90 00 00 E  700.00
+  - S 00 00 00 E  500.00
+  - N 90 00 00 E  800.00
+  - N 00 00 00 E 2000.00
+  - N 90 00 00 W 1500.00
+
+---
+date: 1976-08-26
+doc: DOCC1597265
+desc: "At the Palm and Magnolia Golf Courses, pave and add curbs to cart paths, expand cart parking area and enlarge men's locker room"
+property:
+ origin: 24 27 10 SW
+ beginning:
+  - N 00 15 26 E  674.81
+  - N 90 00 00 E  736.65
+ shape:
+  - S 45 00 00 E 1131.37
+  - N 65 51 01 E 4350.78
+  - S 30 10 11 E 6188.26
+  - S 49 17 30 W 4063.12
+  - N 90 00 00 W 1650.00
+  - N 00 00 00 E 3692.68
+  - N 90 00 00 W 3868.19
+  - N 00 27 51 W  957.58
+  - N 90 00 00 W  204.86
+  - N 00 00 00 E  600.00
+  - N 90 00 00 E  200.00
+  - N 00 27 51 W 1095.00
+
+---
+date: 1976-08-26
+doc: DOCC1597266
+desc: "At the Central Foods Facility erect a ten thousand gallon tank and all related systems to hold and distribute soybean oil"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - S 89 35 51 W 1476.92
+  - N 00 00 00 E 2497.08
+ shape:
+  - N 00 00 00 E   60.00
+  - N 90 00 00 W  100.00
+  - S 00 00 00 E   60.00
+  - N 90 00 00 E  100.00
+
+---
+date: 1976-08-26
+doc: DOCC1597267
+desc: "On the South exterior fourth floor terrace of the Contemporary Hotel construct a restaurant with a bar and dance floor and all ancillary facilities"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - N 00 07 38 W 479.39
+ shape:
+  - N 90 00 00 E  68.26
+  - N 00 00 00 E  50.00
+  - N 90 00 00 W 250.00
+  - S 00 00 00 E  50.00
+  - N 90 00 00 E 181.74  # Original document states a distance of 391.74
+
+---
+date: 1976-10-13
+doc: DOCC1611639
+desc: "Main St. Vehicle Covered Parking - Construct a 2000 sq. ft. structural steel carport like structure with a metal roof"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 06 41 46 E 1080.07
+ shape:
+  - S 00 00 00 E   80.00
+  - S 90 00 00 E   30.00
+  - N 00 00 00 W   80.00
+  - N 90 00 00 W   30.00
+
+---
+date: 1976-10-13
+doc: DOCC1611640
+desc: "Emporium Stockroom Addition - Construct a 3000 sq. ft. steel frame with stucco and concrete block exterior storage building, with air conditioning and fire protection"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 12 45 06 E 1005.50
+ shape:
+  - S 00 00 00 E  156.00
+  - S 90 00 00 E   87.00
+  - N 00 00 00 W  104.00
+  - N 90 00 00 W   67.00
+  - N 00 00 00 W   52.00
+  - N 90 00 00 W   20.00
+
+---
+date: 1976-10-13
+doc: DOCC1611641
+desc: "Barrel Storage Building - Construct a steel frame steel skinned storage building approximately 16' x 50' on a concrete slab"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - S 33 03 25 W 442.76
+ shape:
+  - S 00 00 00 E 100.00
+  - N 90 00 00 W  50.00
+  - N 00 00 00 W 100.00
+  - S 90 00 00 E  50.00
+
+---
+date: 1976-10-13
+doc: DOCC1611642
+desc: "The Lofting Building - Construct a 50' x 120' steel frame steel skinned fabrication shop with electrical facilities and fire protection system"
+property:
+ origin: 24 27 2 E
+ beginning:
+  - S 12 38 20 W 646.77
+ shape:
+  - S 90 00 00 W 155.00
+  - S 00 00 00 W  70.00
+  - N 90 00 00 E 155.00
+  - N 00 00 00 E  70.00
+
+---
+date: 1976-10-13
+doc: DOCC1611643
+desc: "Remodel the kitchen in the Polynesian Hotel Covered Luau and add three 12' x 60' concrete pads"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 68 23 01 E 1200.87
+ shape:
+  - N 31 16 22 W   95.36
+  - N 59 51 31 E   17.92
+  - N 16 14 20 E   53.64
+  - S 73 21 00 E   55.84
+  - S 16 15 37 W   50.00
+  - S 28 33 05 E   38.71
+  - S 74 21 28 E   51.92
+  - S 16 39 00 W   55.84
+  - N 72 09 21 W   76.69
+
+---
+date: 1977-01-17
+doc: DOCC1639571
+desc: "Expand and modify the kitchen of the Lake Buena Vista Club"
+property:
+ origin: 24 28 28 NW
+ beginning:
+  - S 55 52 38 E 454.47
+ shape:
+  - N 45 00 00 E 116.00
+  - S 45 00 00 E 188.00
+  - S 45 00 00 W 116.00
+  - N 45 00 00 W 188.00
+
+---
+date: 1977-01-24
+doc: DOCC1640810
+desc: "Solar Display Office Building, construct a two story reinforced concrete and steel office building with a solar-heating roof system"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - S 89 35 51 W 1739.66
+  - N 00 00 00 E 2014.62
+ shape:
+  - N 00 00 00 E  130.00
+  - N 90 00 00 W   36.00
+  - S 00 00 00 E  130.00
+  - S 90 00 00 E   36.00
+
+---
+date: 1977-03-02
+doc: DOCC1652160
+desc: "General upgrading of River Country by expanding men's locker room, expanding men's and women's restrooms, building a juice bar, addings sidewalks and general civil work"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - S 89 47 49 W 1418.50
+  - N 00 00 00 E 1582.76
+ shape:
+  - N 00 00 00 E  750.00
+  - N 90 00 00 W 1100.00
+  - S 00 00 00 E  750.00
+  - N 90 00 00 E 1100.00
+
+---
+date: 1977-04-22
+doc: DOCC1668740
+desc: "At the Polynesian Hotel construct an additional 144 room longhouse, a restaurant, snack bar, fun center, swimming pool maintenance building, additional parking spaces and all ancillary facilities - Parcel A"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 89 41 53 E 2002.01
+ shape:
+  - N 89 41 53 E  642.69
+  - N 89 41 53 E   65.75
+  - N 00 00 00 E  416.77
+  - N 90 00 00 W  381.97
+  - S 15 00 00 W  195.00
+  - N 75 00 00 W  277.00
+  - S 00 00 00 E   43.62
+  - S 75 00 00 E   36.24
+  - S 15 00 00 W  155.79
+  - N 75 00 00 W   13.02
+  - S 15 00 00 W   42.00
+  - S 75 00 00 E   36.00
+  - S 15 00 00 W   55.74
+
+---
+date: 1977-04-22
+doc: DOCC1668740
+desc: "At the Polynesian Hotel construct an additional 144 room longhouse, a restaurant, snack bar, fun center, swimming pool maintenance building, additional parking spaces and all ancillary facilities - Parcel B"
+property:
+ origin: 24 27 14 NW
+ beginning:
+  - N 89 41 53 E 2002.01
+ shape:
+  - N 89 41 53 E  642.69
+  - N 89 41 53 E   65.75
+  - S 00 00 00 E  339.90
+  - N 90 00 00 E  250.00
+  - S 00 00 00 E  313.00
+  - N 90 00 00 W  556.51
+  - L 622.00 25 00 00
+  - S 65 00 00 W  199.29
+  - N 00 00 00 E  655.50
+  - S 75 00 00 E  207.00
+  - N 15 00 00 E   76.00
+  - N 75 00 00 W  234.69
+  - N 15 00 00 E   27.35
+  - S 75 00 00 E   32.61
+  - N 15 00 00 E   38.93
+
+---
+date: 1977-04-29
+doc: DOCC1670656
+desc: "Remodel the entire first floor of M02 and convert it into public and employee banking facilities"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E  203.95
+  - S 00 00 00 E 1316.14
+ shape:
+  - N 90 00 00 E  100.00
+  - S 00 00 00 E   40.00
+  - N 90 00 00 W  100.00
+  - N 00 00 00 E   40.00
+
+---
+date: 1977-06-02
+doc: DOCC1682024
+desc: "At the Polynesian Hotel construct an additional 144 room longhouse, a restaurant, snack bar, fun center, swimming pool maintenance building, additional parking spaces and all ancillary facilities - Parcel A"
+property:
+ origin: 24 27 11 SW
+ beginning:
+  - N 89 41 53 E 2002.01
+ shape:
+  - N 89 41 53 E  642.69
+  - N 89 41 53 E   65.75
+  - N 00 00 00 E  416.77
+  - N 90 00 00 W  381.97
+  - S 15 00 00 W  195.00
+  - N 75 00 00 W  277.00
+  - S 00 00 00 E   43.62
+  - S 75 00 00 E   36.24
+  - S 15 00 00 W  155.79
+  - N 75 00 00 W   13.02
+  - S 15 00 00 W   42.00
+  - S 75 00 00 E   36.00
+  - S 15 00 00 W   55.74
+
+---
+date: 1977-06-02
+doc: DOCC1682024
+desc: "At the Polynesian Hotel construct an additional 144 room longhouse, a restaurant, snack bar, fun center, swimming pool maintenance building, additional parking spaces and all ancillary facilities - Parcel B"
+property:
+ origin: 24 27 14 NW
+ beginning:
+  - N 89 41 53 E 2002.01
+ shape:
+  - N 89 41 53 E  642.69
+  - N 89 41 53 E   65.75
+  - S 00 00 00 E  339.90
+  - N 90 00 00 E  250.00
+  - S 00 00 00 E  313.00
+  - N 90 00 00 W  556.51
+  - L 622.00 25 00 00
+  - S 65 00 00 W  199.29
+  - N 00 00 00 E  655.50
+  - S 75 00 00 E  207.00
+  - N 15 00 00 E   76.00
+  - N 75 00 00 W  234.69
+  - N 15 00 00 E   27.35
+  - S 75 00 00 E   32.61
+  - N 15 00 00 E   38.93
+
+---
+date: 1977-07-19
+doc: DOCC1697328
+desc: "Construct a small water craft repair facility consisting of a seawall and an 80' x 160' metal building, with mezzanine offices and restrooms."
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - N 00 00 29 W 1303.71
+ shape:
+  - N 90 00 00 W  156.70
+  - N 00 00 00 E  100.00
+  - N 90 00 00 E  156.69
+  - N 90 00 00 E   23.31
+  - N 00 00 00 E  283.00
+  - N 90 00 00 E  650.00
+  - S 00 00 00 E  383.00
+  - N 90 00 00 W  673.30
+
+---
+date: 1977-07-19
+doc: DOCC1697329
+desc: "Construct a beach equipment rental, and snack bar building of wooden frame and shake construction with mini kitchen and a/c"
+property:
+ origin: 24 27 12 SE
+ beginning:
+  - N 00 02 43 E 2477.74
+  - N 90 00 00 W 1120.45
+ shape:
+  - N 90 00 00 W  100.00
+  - N 00 00 00 E  200.00
+  - N 90 00 00 E  100.00
+  - S 00 00 00 E  200.00
+
+---
+date: 1977-07-19
+doc: DOCC1697330
+desc: "Construct a vehicle washing facility consisting of a concrete slab approximately 12' x 40' enclosed by two concrete block walls and equipped with automatic washing equipment"
+property:
+ origin: 24 27 2 SE
+ beginning:
+  - N 00 00 29 W 1636.71
+  - N 90 00 00 W 1176.66
+ shape:
+  - N 90 00 00 W  105.00
+  - N 00 00 00 E  500.00
+  - N 90 00 00 W   60.00
+  - N 00 00 00 E  160.00
+  - N 90 00 00 E  165.00
+  - S 00 00 00 E  660.00
+
+---
+date: 1977-10-31
+doc: DOCC1734501
+desc: "Modifications to the Terrace Cafe/Contemporary Hotel at Walt Disney World"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - N 00 07 38 W 479.39
+ shape:
+  - N 90 00 00 E  68.26
+  - N 00 00 00 E 460.00
+  - N 90 00 00 W 250.00
+  - S 00 00 00 E 460.00
+  - N 90 00 00 E 181.74  # Doc states 191.74 feet, but the math works out to 181.74
+
+---
+date: 1977-10-31
+doc: DOCC1734502
+desc: "Modifications to new suspended ceiling of the Lake Buena Vista Golf Club House"
+property:
+ origin: 24 28 28 NW
+ beginning:
+  - S 55 52 38 E 454.47
+ shape:
+  - N 45 00 00 E 116.00
+  - S 45 00 00 E 188.00  # Duplicated in the paperwork
+  - S 45 00 00 W 116.00
+  - N 45 00 00 W 188.00
+
+---
+date: 1977-10-31
+doc: DOCC1734503
+desc: "Expansion to Bear Band Theatre at Walt Disney World"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 37 33 46 W 605.79
+ shape:
+  - S 00 00 00 E  55.50
+  - N 90 00 00 W  24.50
+  - S 00 00 00 E  16.73
+  - S 67 19 01 W   3.77
+  - S 00 00 00 E  14.29
+  - S 45 00 00 W  23.36
+  - S 00 00 00 E  12.50
+  - N 90 00 00 W  63.50
+  - N 00 00 00 E 117.00
+  - N 90 00 00 E 108.00
+
+---
+date: 1977-11-17
+doc: DOCC1741216
+desc: "Building #8 re-hab China and Crystal shop - (Phase I) Lake Beuna Vista Shopping Village"
+property:
+ origin: 24 28 28 NE
+ beginning:
+  - S 49 36 45 W 3017.90
+ shape:
+  - S 37 08 48 E   40.00
+  - N 52 51 12 E   35.00
+  - N 37 08 48 W   40.00
+  - S 52 51 12 W   35.00
+
+---
+date: 1977-11-17
+doc: DOCC1741216
+desc: "Service area expansion (Phase II) Lake Buena Vista Shopping Village"
+property:
+ origin: 24 28 28 NE
+ beginning:
+  - S 49 53 09 W 2725.96
+ shape:
+  - S 82 08 48 E   45.00
+  - N 07 51 12 E    8.00
+  - N 82 08 48 W   45.00
+  - S 07 51 12 W    8.00
+
+---
+date: 1977-11-17
+doc: DOCC1741216
+desc: "Buildimg #8 re-hab Wardrobe area (Phase II) Lake Buena Vista Shopping Village"
+property:
+ origin: 24 28 28 NE
+ beginning:
+  - S 49 50 21 W 3282.62
+ shape:
+  - S 37 08 48 E   50.00
+  - N 52 21 12 E   55.00
+  - N 37 08 48 W   50.00
+  - S 52 51 12 W   55.00
+
+---
+date: 1977-11-17
+doc: DOCC1741216
+desc: "Building #8 re-hab Buena Vista Interiors Shop (Phase I) Lake Buena Vista Shopping Village"
+property:
+ origin: 24 28 28 NE
+ beginning:
+  - S 50 28 25 W 3145.79
+ shape:
+  - S 37 08 48 E   58.00
+  - N 52 51 12 E   40.00
+  - N 37 08 48 W   58.00
+  - S 52 51 12 W   40.00
+
+---
+date: 1977-11-17
+doc: DOCC1741216
+desc: "Building #7 re-hab (Display - Phase I, Arts & Crafts Shop - Phase II and Port of Entry storage - Phase II) Lake Buena Vista Shopping Village"
+property:
+ origin: 24 28 28 NE
+ beginning:
+  - S 49 53 09 W 2725.96
+ shape:
+  - N 82 08 48 W   70.00
+  - S 07 51 12 W  140.00
+  - S 82 08 48 E   70.00
+  - N 07 51 12 E  140.00
+
+---
+date: 1977-11-17
+doc: DOCC1741216
+desc: "Building #6 re-hab (Bath Shop, Phase I and Bath Fragrance Shop, Phase II) Lake Buena Vista Shopping Village"
+property:
+ origin: 24 28 28 NE
+ beginning:
+  - S 53 18 56 W 2665.82
+ shape:
+  - S 07 51 12 W   50.00
+  - S 82 08 48 E   64.00
+  - N 07 51 12 E   50.00
+  - N 82 08 48 W   64.00
+
+---
+date: 1977-11-17
+doc: DOCC1741217
+desc: "Install Air Curtains at each of the four (4) monorail openings at the Contemporary Resort Hotel"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - N 11 06 56 W 407.024
+ shape:
+  - N 00 00 00 E 600.000
+  - N 90 00 00 W  51.334
+  - S 00 00 00 E 600.000
+  - N 90 00 00 E  51.334
+ 
+---
+date: 1978-01-17
+doc: DOCC1762840
+desc: "Increase exit area and replace turnstiles at mainland landing (Mainland Raft Doc Extension)"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 89 33 41 W 413.10
+  - S 00 00 00 E  88.78
+ shape:
+  - S 22 00 00 W  72.00
+  - S 68 00 00 E  62.00
+  - N 22 00 00 E  52.00
+  - N 31 28 16 W  33.60
+  - N 68 00 00 W  35.00
+ 
+---
+date: 1978-01-17
+doc: DOCC1762840
+desc: "Remove existing maintenance landing and build new people landing (Tom Sawyer's Island Loading Dock)"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 89 33 41 W 559.07
+  - S 00 00 00 E 177.42
+ shape:
+  - S 00 00 00 E 163.00
+  - S 90 00 00 W  36.00
+  - N 00 00 00 W 163.00
+  - N 90 00 00 E  36.00
+ 
+---
+doc: DOCC1781759
+date: 1978-03-08
+desc: "Remodel the interior of the Lake Buena Vista Preview Center Building"
+property:
+ origin: 24 28 21 SE
+ beginning:
+  - S 89 19 12.2 W 268.81
+ shape:
+  - S 38 17 55.7 W 136.00
+  - N 51 42 04.3 W 116.00
+  - N 38 17 55.7 E 136.00
+  - S 51 42 04.3 E 116.00
+
+---
+doc: DOCC1796584
+date: 1978-04-13
+desc: "Erect Steel Structure Stage - Tomorrowland Theatre - Terrace Stage - (TWK) - Tomorrowland Stage"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E 952.59
+  - S 00 00 00 E 825.37
+ shape:
+  - N 90 00 00 E 114.88
+  - S 07 46 53 W  70.17
+  - S 04 58 11 E  28.86
+  - S 17 52 43 E  40.72
+  - S 37 25 54 E  51.00
+  - S 00 00 00 E  68.60
+  - N 90 00 00 W  89.00
+  - N 39 36 40 W 184.47
+  - N 27 59 39 E 117.67
+ 
+---
+doc: DOCC1796584
+date: 1978-04-13
+desc: "Erect Steel Structure Stage - Tomorrowland Theatre - Terrace Stage - (TWK) - Dumpster Pad and Utilities"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - N 89 35 51 E  998.97
+  - S 00 00 00 E 1119.22
+ shape:
+  - S 61 45 00 E   38.03
+  - N 69 00 00 E  181.42
+  - S 21 00 00 E   13.67
+  - S 69 00 00 W  222.55
+  - N 00 00 00 E   45.50
+ 
+---
+doc: DOCC1820006
+date: 1978-06-07
+desc: "Erect Steel Structure Office, Storage, Maintenance Facility in the Fort Wilderness area (HWK)"
+property:
+ origin: 24 28 18 W
+ beginning:
+  - N 77 39 43 E 1311.97
+ shape:
+  - N 45 00 00 E  250.00
+  - S 45 00 00 E  420.00
+  - S 45 00 00 W  200.00
+  - N 90 00 00 W   70.71
+  - N 45 00 00 W  370.00
+ 
+---
+doc: DOCC1832812
+date: 1978-07-10
+desc: "Contemporary Resort Hotel - Escalator Wall Removal - Remove existing walls and construct new hostess desk"
+property:
+ origin: 24 27 11 E
+ beginning:
+  - N 00 07 38 W 479.39
+ shape:
+  - N 90 00 00 E  68.26
+  - N 00 00 00 E 460.00
+  - N 90 00 00 W 250.00
+  - S 00 00 00 E 460.00
+  - N 90 00 00 E 181.74  # Doc states 391.74 feet, but the math works out to 181.74
+ 
+---
+doc: DOCC1832813
+date: 1978-07-10
+desc: "Polynesian Hotel - Chiller Building (BDS) Add Ofc./Wood Shop/Metal Shelving and Mezzanine Flooring"
+property:
+ origin: 24 27 14 NW
+ beginning:
+  - N 89 41 53 E 1275.54
+  - S 00 00 00 E  103.51
+ shape:
+  - S 75 00 00 E  150.00
+  - S 15 00 00 W  250.00
+  - N 35 00 00 W  195.81
+ #- N 15 00 00 W  195.81  # Present in the doc but seems to be a mangled dupe of the previous and next pieces
+  - N 15 00 00 E  124.14
+
+---
+doc: DOCC1833949
+date: 1978-07-12
+desc: "Contemporary Resort Hotel - Hospitality Booth/Entrance Road Modifications - Remove existing hostess station; construct new hostess station; construct one additional entrance road"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - S 89 35 51 W  326.89
+  - S 00 00 00 E 1251.00
+ shape:
+  - S 00 00 00 E  210.00
+  - N 90 00 00 W  400.00
+  - S 00 00 00 E  200.00
+  - N 90 00 00 W  130.00
+  - N 00 00 00 E  410.00
+  - N 90 00 00 E  530.00
+
+---
+doc: DOCC1833950
+date: 1978-07-12
+desc: "Contemporary Resort Hotel - Terrace Buffeteria Modifications - modifications to existing buffeteria"
+property:
+ origin: 24 27 11 NE
+ beginning:
+  - N 00 07 38 W 479.39
+ shape:
+  - N 90 00 00 E  68.26
+  - N 00 00 00 E 460.00
+  - N 90 00 00 W 250.00
+  - S 00 00 00 E 460.00
+  - N 90 00 00 E 181.74  # Original document states a distance of 391.74
+
+---
+doc: DOCC1847634
+date: 1978-08-11
+desc: "Fort Wilderness - Group Camping/Comfort Station (HWL)"
+property:
+ origin: 24 27 13 NE
+ beginning:
+  - S 89 47 49 W 1124.92
+  - S 00 00 00 E  314.05
+ shape:
+  - S 39 00 00 E   46.67
+  - S 51 00 00 W   79.00
+  - N 39 00 00 W   46.67
+  - N 51 00 00 E   79.00
+  
+---
+doc: DOCC1853688
+date: 1978-08-28
+desc: "Contemporary Resort Hotel - Annex Canopy (BZB), Parcel A - North Annex"
+property:
+ origin: 24 27 12 NW
+ beginning:
+  - S 00 07 38 E 1421.30
+  - N 90 00 00 E  114.96
+ shape:
+  - N 90 00 00 E   50.00
+  - S 00 00 00 E   30.00
+  - N 90 00 00 W   50.00
+  - N 00 00 00 E   30.00
+
+---
+doc: DOCC1853688
+date: 1978-08-28
+desc: "Contemporary Resort Hotel - Annex Canopy (BZB), Parcel B - South Annex"
+property:
+ origin: 24 27 12 NW
+ beginning:
+  - S 00 07 38 E 2451.30
+  - N 90 00 00 E  112.67
+ shape:
+  - N 90 00 00 E   50.00
+  - S 00 00 00 E   30.00
+  - N 90 00 00 W   50.00
+  - N 00 00 00 E   30.00
+
+# ...
+
+---
+date: 1980-02-11
+doc: DOCC2064526
+desc: "World Communication New Storage Building"
+property:
+ origin: 24 27 17 SW
+ beginning:
+  - N 00 21 55 E 178.90
+  - N 89 59 24 W 285.00
+ shape:
+  - N 89 59 24 W  50.00
+  - N 00 00 36 E  50.00
+  - S 89 59 24 E  50.00
+  - S 00 00 36 W  50.00
+  
+---
+date: 1980-05-06
+doc: DOCC2091116
+desc: "Energy Pavilion Sites"
+property:
+ origin: 24 28 30 E
+ beginning:
+  - N 00 54 55 E 1858.17
+  - N 90 00 00 W 2261.595
+ shape:
+  - N 30 00 00 W  410.00
+  - N 60 00 00 E  410.00
+  - S 30 00 00 E  410.00
+  - S 60 00 00 W  410.00
+
+---
+date: 1980-05-06
+doc: DOCC2091116
+desc: "Transportation Pavilion Site"
+property:
+ origin: 24 28 30 E
+ beginning:
+  - N 00 54 55 E 1289.36
+  - N 90 00 00 W 2048.85
+ shape:
+  - R 210.00 360 00 00 1319.47
+
+---
+date: 1980-05-07
+doc: DOCC2091277
+desc: "EPCOT Monorail and TTC Monorail Station Expansion"
+property:
+ origin: 24 27 11 SE
+ beginning:
+  - S 89 41 52 W 501.52
+ shape:
+  - S 89 41 52 W 127.74
+  - N 20 21 00 W  88.77
+  - L 440.03 127 39 00 980.34
+  - S 32 00 00 W 198.40
+  - S 89 41 52 W 141.97
+  - N 32 00 00 E 105.34
+  - N 58 00 00 W  85.50
+  - N 32 00 00 E 200.37
+  - R 560.00 13 00 00 127.06
+  - N 45 00 00 E  30.12
+  - R 560.00 114 39 00 1120.57
+  - S 20 21 00 E 232.05
+
+---
+date: 1980-05-07
+doc: DOCC2091277
+desc: "EPCOT Monorail and TTC Monorail Station Expansion"
+property:
+ type: centerline
+ origin: 24 27 14 NE
+ beginning:
+  - S 89 41 52 W  565.39
+ shape:
+  - S 20 21 00 E 1621.30
+ width: 120
+
+---
+date: 1980-05-07
+doc: DOCC2091277
+desc: "EPCOT Monorail and TTC Monorail Station Expansion"
+property:
+ type: centerline
+ origin: 24 27 14 NE
+ beginning:
+  - S 89 41 52 W 1622.00
+ shape:
+  - S 32 00 00 W  301.00
+  - L 566.68 52 21 00 517.77
+  - S 20 21 00 E  214.68
+  - L 568.93 69 39 00 691.60
+  - N 90 00 00 E  744.68
+  - R 576.71 55 57 04 566.10
+ width: 120
+
+---
+date: 1980-05-07
+doc: DOCC2091277
+desc: "EPCOT Monorail and TTC Monorail Station Expansion"
+property:
+ type: centerline
+ origin: 24 27 13 NW
+ beginning:
+  - S 00 03 33   W 1587.35
+ shape:
+  - S 34 02 56   E    0.00  # Reposition for the following curve
+  - R  576.71 13 41 56   137.89
+  - S 20 21 00   E 1416.90
+  - L 2595.85 10 33 09.5 478.10
+  - S 30 54 09.5 E  241.83
+  - R 2444.99 14 05 58.5 601.67
+  - S 16 48 11   E 1130.70
+ width: 120
+
+---
+date: 1980-05-07
+doc: DOCC2091277
+desc: "EPCOT Monorail and TTC Monorail Station Expansion"
+property:
+ type: centerline
+ origin: 24 27 24 NW
+ beginning:
+  - N 89 44 34 E 1462.09
+ shape:
+  - S 16 48 11 E 3514.38
+  - L 2001.76 47 45 29 1668.53
+  - L 993.47 55 26 20 961.28
+  - N 60 00 00 E  584.43
+  - R 1123.04 18 07 40 355.32
+  # N 78 07 40 E
+ width: 120
+
+---
+date: 1980-05-07
+doc: DOCC2091277
+desc: "EPCOT Monorail and TTC Monorail Station Expansion"
+property:
+ type: centerline
+ origin: 24 28 19 SW
+ beginning:
+  - N 00 20 07   W 1163.33
+ shape:
+  - N 78 07 40.4 E    0.00  # Reposition for the following curve
+  # N  78 07 40   E
+  - R 1123.04 30 10 13.8 591.37
+  # N 108 17 53.8 E
+  # S  71 42  6.2 E
+  - S 71 42 05.8 E  394.09
+  - L 1218.66 28 17 54.2 601.90
+  - N 80 00 00   E  376.12
+ width: 120
+
+---
+date: 1980-05-07
+doc: DOCC2091277
+desc: "EPCOT Monorail and TTC Monorail Station Expansion"
+property:
+ type: centerline
+ origin: 24 28 19 S
+ beginning:
+  - N 00 00 00 E   0.00  # Corner listed as the point of beginning
+ shape:
+  - S 89 27 34 W 246.43
+  - N 00 00 00 E 485.58
+  # L 531.89 100 00 00 823.60
+  - L 471.89 100 00 00 823.60
+  - S 80 00 00 W  58.91
+  - N 10 00 00 W 132.00
+  - N 80 00 00 E 207.25
+  - R 591.89 100 00 00
+  - S 00 00 00 E 520.73
+  - S 89 40 30 W  17.58
+ width: 120
+
+---
+date: 1980-08-22
+doc: DOCC2126817
+desc: "Main Entrance Complex and Spaceship Earth Pavilion Parcel A"
+property:
+ origin: 24 28 19 SW
+ beginning:
+  - N 89 27 34 E 2305.048
+ shape:
+  - N 00 00 00 E  117.369
+  - N 90 00 00 E  241.000
+  - N 00 00 00 E   74.000
+  - N 90 00 00 E  153.000
+  - S 00 00 00 E  187.646
+  - S 89 27 34 W  349.018
+
+---
+date: 1980-08-22
+doc: DOCC2126817
+desc: "Main Entrance Complex and Spaceship Earth Pavilion Parcel B"
+property:
+ origin: 24 28 30 NW
+ beginning:
+  - N 89 27 34 E 2155.041
+ shape:
+  - N 89 27 34 E  544.024
+  - S 00 00 00 E   17.354
+  - S 88 47 27 E  379.084
+  - S 55 24 00 E   83.826
+  - S 30 00 07 W   93.994
+  - N 90 00 00 W   86.000
+  - S 28 48 07 W  286.435
+  - S 30 47 03 E   54.708
+  - S 32 48 18 W  197.497
+  - S 15 21 42 W  188.743
+  - N 90 00 00 W  152.000
+  - N 17 57 41 W  191.324
+  - N 29 42 41 W  211.851
+  - N 34 39 30 E   98.473
+  - N 39 24 02 W   36.235
+  - N 76 30 15 W   51.420
+  - N 28 45 40 W  151.717
+  - N 00 00 00 E   49.000
+  - N 90 00 00 W  186.000
+  - N 00 00 00 E  126.215
+
+---
+date: 1980-08-22
+doc: DOCC2126818
+desc: "Land Pavilion"
+property:
+ origin: 27 28 30 NW
+ beginning:
+  - S 64 48 29 E 1515.046
+ shape:
+  - N 90 00 00 E  635.000
+  - S 20 36 57 E  224.368
+  - S 00 00 00 E  180.000
+  - S 33 56 50 W  247.121
+  - S 00 00 00 E  105.000
+  - N 90 00 00 W  576.000
+  - N 00 00 00 E  700.000
+
+---
+date: 1980-12-09
+doc: DOCC2166478
+desc: "Adventureland - Tunnel Merchandise Building (625)"
+property:
+ origin: 24 27 11 NW
+ elevation: # datum based on mean sea level
+  low: 92.0
+  high: 101.0
+ beginning:
+  - S 79 31 41 E 2665.36
+ shape:
+  - N 90 00 00 E   27.00
+  - S 00 00 00 E   37.00
+  - N 90 00 00 W   27.00
+  - N 00 00 00 E   37.00
+
+---
+date: 1980-12-09
+doc: DOCC2166479
+desc: "Frontierland Paving Rehab (618)"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 29 13 23 W 495.81
+ shape:
+  - N 87 25 01 W 133.14
+  - N 90 00 00 W 206.00
+  - N 00 00 00 E 160.00
+  - N 49 11 06 W  29.07
+  - S 56 26 42 W 117.60
+  - S 00 00 00 E 249.00
+  - N 90 00 00 E  23.00
+  - N 52 21 53 E 104.81
+  - N 90 00 00 E 195.00
+  - S 45 00 00 E  38.18
+  - N 78 41 24 E 122.38
+
+---
+date: 1981-01-08
+doc: DOCC2176156
+desc: "EPCOT Center - The United Kingdom Pavilion, The Canada Pavilion And Area Development - Area 'A'"
+property:
+ origin: 24 28 30 E
+ beginning:
+  - S 89 45 53 W 3258.638
+  - S 00 00 00 E 1044.615
+ shape:
+  - S 51 42 35 E  121.037
+  - S 00 00 00 E   70.000
+  - S 47 33 50 W   47.424
+  - S 01 41 05 W   68.029
+  - S 01 53 41 W  393.215
+  - S 33 16 59 W  546.671
+  - N 90 00 00 W  100.000
+  - N 45 00 00 W  212.132
+  - N 53 07 48 E  250.000
+  - N 00 00 00 E   45.000
+  - N 90 00 00 W  450.000
+  - N 22 51 52 E  450.389
+  - N 29 30 03 E  261.964
+  - S 52 39 02 E   95.603
+  - N 36 52 12 E  250.000
+  - S 81 09 29 E  227.706
+
+---
+date: 1981-02-26
+doc: DOCC2193768
+desc: "EPCOT Center - The American Adventure Pavilion and Area Development - Area 'C'"
+property:
+ origin: 24 28 30 E
+ beginning:
+  - S 89 45 53 W 2511.632
+  - S 00 00 00 E  303.452
+ shape:
+  - S 00 00 00 E  680.000
+  - N 90 00 00 W  392.000
+  - N 00 00 00 E  680.000
+  - N 90 00 00 E  392.000
+
+---
+date: 1981-05-14
+doc: DOCC2223730
+desc: "EPCOT Center - CommuniCore"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - S 23 05 21 E 376.314
+ shape:
+  - S 45 32 08 E 151.327
+  - S 44 23 49 W 134.358
+  - S 45 07 41 E 316.078
+  - S 00 00 00 E 200.000
+  - S 23 16 04 W 108.853
+  - S 38 07 55 W 254.262
+  - S 81 05 28 W 374.518
+  - N 64 24 56 W 365.874
+  - N 19 17 24 W 105.948
+  - N 06 39 16 E 302.035
+  - N 47 36 09 E 311.448
+  - S 22 04 04 E 199.625
+  - S 75 15 23 E  98.234
+  - N 75 15 23 E  98.234
+  - N 44 21 23 E 125.873
+
+---
+date: 1981-05-14
+doc: DOCC2223731
+desc: "EPCOT Center - The Imagination Pavilion"
+property:
+ origin: 24 28 30 NW
+ beginning:
+  - N 89 27 34 E 1809.08
+  - S 00 32 26 E 1076.09
+ shape:
+  - S 80 00 00 E  626.00
+  - S 10 00 00 W  431.91
+  - S 55 00 00 W  196.65
+  - N 35 00 00 W  106.00
+  - N 80 00 00 W  412.00
+  - N 10 00 00 E  496.00
+
+---
+date: 1981-05-21
+doc: DOCC2226719
+desc: "France Pavilion, Japan Pavilion, Area Development - Area B and Area B Restroom Facility"
+property:
+ origin: 24 28 30 NW
+ beginning:
+  - S 30 01 41 E 2939.155
+ shape:
+  - N 75 57 50 E  206.155
+  - S 73 08 30 E  344.819
+  - S 00 00 00 E  267.000
+  - N 90 00 00 E   70.000
+  - S 00 00 00 E   83.000
+  - N 90 00 00 E  445.000
+  - S 00 00 00 E  655.000
+  - N 90 00 00 W  128.000
+  - N 78 25 15 W  333.793
+  - N 12 36 49 E  146.537
+  - N 62 26 33 W  464.725
+  - N 55 34 17 W  258.234
+  - N 37 34 07 W  246.018
+  - N 13 57 23 E  174.141
+  - N 42 46 08 E  163.466
+
+---
+date: 1981-05-28
+doc: DOCC2228711
+desc: "EPCOT Center - The Germany Pavilion, The Italy Pavilion and Area Development - Area 'D'"
+property:
+ origin: 24 28 30 NW
+ beginning:
+  - S 50 29 37 E 4498.64
+ shape:
+  - S 32 14 56 E 474.14
+  - S 58 38 24 W 272.86
+  - N 31 25 46 W 421.90
+  - S 84 17 22 W 100.50
+  - S 06 57 11 E 413.04
+  - S 87 32 45 W 350.32
+  - N 00 00 00 E 417.00
+  - N 40 16 48 E 154.67
+  - N 80 34 29 E 506.84
+
+---
+date: 1981-07-24
+doc: DOCC2251484
+desc: "EPCOT Center - The Mexico Pavilion, Area Development - Area 'E', The East Restaurant Complex, Outdoor Food Facility and Area 'F' Restroom Facility"
+property:
+ origin: 24 28 30 NE
+ beginning:
+  - N 00 54 55 E 974.11
+  - N 90 00 00 W 1650.80
+ shape:
+  - S 54 00 00 W 652.00
+  - N 36 00 00 W 283.00
+  - N 54 00 00 E 652.00
+  - S 36 00 00 E 283.00
+
+---
+date: 1981-11-30
+doc: DOCC2301380
+desc: "EPCOT Center - The China Pavilion/Area Development 'G' Structural Steel"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - N 89 40 30 E 1085.59
+  - S 00 00 00 E 2228.44
+ shape:
+  - S 00 00 00 E 283.88
+  - N 90 00 00 W 105.00
+  - S 78 00 00 W 46.10
+  - S 60 00 00 W 250.00
+  - N 30 00 00 W 350.25
+  - N 78 00 00 E 553.83
+
+---
+date: 1981-11-30
+doc: DOCC2301381
+desc: "EPCOT Center - The China Pavilion/Area Development 'G' Excavation & Foundations"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - N 89 40 30 E 1085.59
+  - S 00 00 00 E 2228.44
+ shape:
+  - S 00 00 00 E 283.88
+  - N 90 00 00 W 105.00
+  - S 78 00 00 W 46.10
+  - S 60 00 00 W 250.00
+  - N 30 00 00 W 350.25
+  - N 78 00 00 E 553.83
+
+---
+date: 1982-01-19
+doc: DOCC2319002
+desc: "EPCOT Center - The China Pavilion/Area Development 'G'"
+property: DOCC2301381
+
+---
+date: 1982-01-19
+doc: DOCC3219002
+desc: "EPCOT Center - The Horizons Pavilion"
+property:
+ origin: 24 28 30 NE
+ beginning:
+  - S 00 54 55 W 586.22
+  - N 90 00 00 W 1694.44
+ shape:
+  - N 90 00 00 W 234.50
+  - S 00 00 00 E 157.88
+  - S 55 00 00 W 223.20
+  - S 20 00 00 E 34.61
+  - S 00 00 00 E 156.57
+  - N 90 00 00 E 14.00
+  - S 00 00 00 E 15.12
+  - S 71 00 00 E 14.28
+  - S 00 00 00 E 26.28
+  - S 71 00 00 W 14.28
+  - S 00 00 00 E 52.06
+  - S 45 00 00 E 7.41
+  - N 90 00 00 E 33.76
+  - R 217.00 46 38 08 176.63
+  - N 90 00 00 E 236.55
+  - N 05 00 00 E 178.68
+  - N 00 00 00 E 132.00
+  - N 05 00 00 W 257.98
+  - L 154.655 34 04 20 91.97
+
+---
+date: 1982-07-12
+doc: DOCC2382676
+desc: "EPCOT Center - Carpet Installation"
+property:
+ origin: 24 28 19 E
+ beginning:
+  - N 01 23 35 W 104.05
+  - N 90 00 00 W 511.16
+ shape:
+  - S 00 00 00 E 6600
+  - N 90 00 00 W 3900
+  - N 00 00 00 E 6600
+  - N 90 00 00 E 3900
+
+---
+date: 1982-07-13
+doc: DOCC2382898
+desc: "Filling of World Showcase Lagoon to Elevation 94.0"
+property:
+ origin: 24 28 30 W
+ beginning:
+  - S 89 33 25 E 1765.34
+ shape:
+  - N 78 00 00 E 117.00
+  - N 31 00 00 E 220.00
+  - N 00 00 00 E 131.00
+  - N 76 00 00 E 97.00
+  - N 06 00 00 W 179.00
+  - N 32 00 00 E 238.00
+  - N 75 00 00 E 220.00
+  - S 77 00 00 E 195.00
+  - N 90 00 00 E 150.00
+  - N 77 00 00 E 192.00
+  - N 75 00 00 E 119.00
+  - N 81 00 00 E 53.00
+  - S 79 00 00 E 38.00
+  - S 00 00 00 W 68.00
+  - S 48 00 00 E 188.00
+  - S 24 00 00 E 211.00
+  - S 10 00 00 W 131.00
+  - S 36 00 00 E 232.00
+  - S 72 00 00 E 75.00
+  - S 15 00 00 W 92.00
+  - S 52 00 00 W 359.00
+  - S 74 00 00 W 90.00
+  - N 80 00 00 W 155.00
+  - S 55 00 00 W 88.00
+  - S 21 00 00 W 60.00
+  - N 90 00 00 W 92.00
+  # non-tangent curve ???
+  - R 155.00 140 00 00 378.74
+  - N 82 59 09 W 258.33
+  - N 57 00 00 W 53.00
+  - N 83 00 00 W 105.00
+  - N 58 00 00 W 361.00
+  - N 26 00 00 W 114.00
+
+---
+date: 1982-07-13
+doc: DOCC2382899
+desc: "World Showcase Lagoon Docs - Dock #1"
+property:
+ origin: 24 28 30 W
+ beginning:
+  - N 75 34 26 E 2470.01
+ shape:
+  - N 90 00 00 E 104.00
+  - N 00 00 00 E 103.00
+  - N 90 00 00 W 104.00
+  - S 00 00 00 E 103.00
+
+---
+date: 1982-07-13
+doc: DOCC2382899
+desc: "World Showcase Lagoon Docs - Dock #2"
+property:
+ origin: 24 28 30 W
+ beginning:
+  - S 86 25 05 E 1915.79
+ shape:
+  - S 30 00 00 W 82.00
+  - S 60 00 00 E 104.00
+  - N 30 00 00 E 82.00
+  - N 60 00 00 W 104.00
+
+---
+date: 1982-07-13
+doc: DOCC2382899
+desc: "World Showcase Lagoon Docs - Dock #3"
+property:
+ origin: 24 28 30 W
+ beginning:
+  - S 85 57 54 E 3206.43
+ shape:
+  - S 24 00 00 E 103.00
+  - N 66 00 00 E 104.00
+  - N 24 00 00 W 103.00
+  - S 66 00 00 W 104.00
+
+---
+date: 1982-12-08
+doc: DOCC2439328
+desc: "EPCOT - Renaissance Food Facility (60-P-WAR)"
+property:
+ origin: 24 28 30 W
+ beginning:
+  - N 00 01 32 E 108.36
+  - N 90 00 00 E 1222.08
+ shape:
+  - N 90 00 00 E 350.00
+  - N 72 38 45 E 335.26
+  - N 00 00 00 E 200.00
+  - N 90 00 00 W 320.00
+  - N 00 00 00 E 320.00
+  - N 90 00 00 W 100.00
+  - S 21 57 38 W 668.51
+
+---
+date: 1983-01-31
+doc: DOCC2459124
+desc: "Horizons-Ride/Show Installation (60-P-FNC, 60-P-FND)"
+property:
+ origin: 24 28 30 NE
+ beginning:
+  - S 00 54 55 W 586.22
+  - N 90 00 00 W 1694.44
+ shape:
+  - N 90 00 00 W 234.50
+  - S 00 00 00 E 157.88
+  - S 55 00 00 W 223.20
+  - S 20 00 00 E 34.61
+  - S 00 00 00 E 156.57
+  - N 90 00 00 E 14.00
+  - S 00 00 00 E 15.12
+  - S 71 00 00 E 14.28
+  - S 00 00 00 E 26.28
+  - S 71 00 00 W 14.28
+  - S 00 00 00 E 52.06
+  - S 45 00 00 E 7.41
+  - N 90 00 00 E 33.76
+  - R 217.00 46 38 08 176.63
+  - N 90 00 00 E 236.55
+  - N 05 00 00 E 178.68
+  - N 00 00 00 E 132.00
+  - N 05 00 00 W 257.98
+  - L 154.655 34 04 20 91.97
+
+---
+date: 1983-02-03
+doc: DOCC2460881
+desc: "Fantasyland Tunnel Zoo Room Rehab (J1000-899)"
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 60 45 56 E 436.55
+ shape:
+  - S 45 00 00 W 65.06
+  - S 00 00 00 E 50.00
+  - N 90 00 00 E 74.00
+  - N 00 00 00 E 96.00
+  - N 90 00 00 W 28.00
+
+---
+date: 1983-04-20
+doc: DOCC2495900
+desc: "EPCOT - Future World - West Walkway (60-P-FAF)"
+property:
+ origin: 24 28 30 W
+ beginning:
+  - N 00 01 32 E 1258.361
+  - N 90 00 00 E 2331.564
+ shape:
+  - N 90 00 00 E  290.000
+  - N 00 00 00 E  250.000
+  - N 90 00 00 W  290.000
+  - S 00 00 00 E  250.000
+
+---
+date: 1983-04-27
+doc: DOCC2499233
+desc: "EPCOT Center/Showcase Plaza Refreshment Stand (WCT)"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - S 14 52 20 W 1770.48
+ shape:
+  - S 00 00 00 E   85.00
+  - N 90 00 00 W   80.00
+  - N 00 00 00 E   85.00
+  - N 90 00 00 E   80.00
+
+---
+date: 1983-04-27
+doc: DOCC2499234
+desc: "EPCOT Center/World Showcase - Africa Refreshment Stand (WFT)"
+property:
+ origin: 24 28 30 E
+ beginning:
+  - S 82 34 34 W 1386.69
+ shape:
+  - S 40 00 00 W   25.00
+  - N 50 00 00 W  308.69
+  - N 72 55 54 W   34.52
+  - S 73 04 21 W   24.04
+  - S 16 22 25 W  101.10
+  - N 90 00 00 W    8.50
+  - N 16 02 24 W   83.24
+  - N 49 23 55 E   82.98
+  - S 72 36 00 E   73.71
+  - S 50 00 00 E  307.04
+
+---
+date: 1983-05-06
+doc: DOCC2504742
+desc: "EPCOT Center/World Showcase France Sidewalk Cafe Expansion (WPW)"
+property:
+ origin: 24 28 30 SW
+ beginning:
+  - N 00 03 40 W 1001.13
+  - N 48 00 00 E 2216.51
+ beginning:
+  - N 48 00 00 E   37.00
+  - N 03 00 00 E   13.00
+  - N 42 00 00 W   47.00
+  - N 18 00 00 E   32.57
+  - S 42 00 00 E  116.48
+  - S 48 00 00 W   74.40
+  - N 42 00 00 W   44.00
+
+---
+date: 1983-06-10
+doc: DOCC2521781
+desc: "EPCOT Center/World Showcase - Stargate Refreshment Stand"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - S 07 11 04 E 911.75
+ shape:
+  - S 49 37 03 W  22.00
+  - S 40 22 57 E  21.20
+  - N 49 37 03 E  22.00
+  - N 40 22 57 W  21.20  # document states 41.20, but that doesn't line up
+
+---
+date: 1983-08-11
+doc: DOCC2553425
+desc: "Kingdom of Morocco Pavilion"
+property:
+ origin: 24 28 30 SW
+ beginning:
+  - N 30 57 52 E 2484.95
+ shape:
+  - N 30 00 00 E  160.00
+  - S 60 00 00 E   50.00
+  - N 30 00 00 E  258.00
+  - S 60 00 00 E   50.00
+  - N 35 54 35 E   71.61
+  - N 30 00 00 E   55.00
+  - N 60 00 00 W   20.00
+  - N 30 00 00 E   42.00
+  - S 60 00 00 E   23.00
+  - N 30 00 00 E    5.00
+  - S 60 00 00 E  167.00
+  - S 30 00 00 W    9.00
+  - S 60 00 00 E   23.00
+  - S 30 00 00 W   35.00
+  - S 60 00 00 E   10.00
+  - S 30 00 00 W   68.00
+  - S 23 53 00 W  343.23
+  - N 60 00 00 W  156.00
+  - S 30 00 00 W   73.00
+  - N 60 00 00 W  156.00
+  - S 30 00 00 W   75.00
+  - N 55 19 42 W  123.36
+
+---
+date: 1983-08-11
+doc: DOCC2553637
+desc: "EPCOT Center - Horizons Pavilion Electrical Installation"
+property: DOCC3219002
+
+---
+date: 1983-10-27
+doc: DOCC2595291
+desc: "Adventureland Pirates of the Caribbean Facility. Apply liquid waterproofing to roof."
+property:
+ origin: 24 27 11 N
+ beginning:
+  - S 31 47 38.6 W 1032.65
+ shape:
+  - S 00 00 00   E  187.00
+  - N 90 00 00   W  176.50
+  - N 00 00 00   E   82.50
+  - N 90 00 00   W   62.50
+  - N 00 00 00   E  172.50
+  - N 90 00 00   E  244.00
+  - S 00 00 00   E   70.00
+  - N 90 00 00   E   70.00
+  - S 00 00 00   E   36.86
+  - N 90 00 00   E   38.58
+  - S 00 00 00   E   18.14
+  - N 90 00 00   E  101.25
+  - S 00 00 00   E   28.00
+  - N 90 00 00   E   55.17
+
+---
+date: 1983-12-02
+doc: DOCC2613079
+desc: "French Republic-Restaurant Expansion (60-PWPXOICA)"
+property:
+ origin: 24 28 30 SW
+ beginning:
+  - N 00 03 40 W 2458.30
+  - N 90 00 00 E 1036.79
+ shape:
+  - N 66 00 00 E  715.57
+  - S 21 00 00 E  211.84
+  - S 48 00 00 W  675.74
+  - N 43 00 55 W    0.00 # Tangent for the following curve
+  - R 1390.00 11 56 03 289.52
+  - R  470.00 16 59 29 139.38
+
+---
+date: 1984-05-05
+doc: DOCC2629600
+desc: "Epcot Center - Odyssey Bridge & Sidewalks"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - N 89 40 30 E  237.58
+  - S 00 00 00 E 1232.52
+ shape:
+  - S 00 00 00 E  271.00
+  - N 78 41 00 E  142.78
+  - N 90 00 00 E  191.98
+  - N 69 59 00 W  149.00
+
+---
+date: 1984-01-10
+doc: DOCC2632110
+desc: "EPCOT Center - Acrylic Panel Glazing System at Living Seas Pavilion"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - S 89 27 34 W 827.29
+  - S 00 00 00 E  36.78
+ shape:
+  - S 64 00 00 W 589.87
+  - S 32 18 38 W 218.89
+  - S 00 00 00 E 183.00
+  - N 90 00 00 E 430.00
+  - N 67 24 19 E 174.39
+  - S 50 38 00 E 289.72
+  - N 30 46 27 E   0.00 # Tangent for the following curve
+  - R 149.00 70 13 00 182.60
+  - R 220.00 26 30 33 101.79
+  - S 52 30 00 E  22.20
+  - N 00 00 00 E 177.67
+  - N 40 32 52 E 138.63
+  - N 30 00 00 W 316.00
+  - L 57.00 60 00 00 59.69
+  - N 90 00 00 W 135.07
+  - S 64 00 00 W 100.42
+  - N 26 00 00 W 208.17
+
+---
+date: 1984-01-10
+doc: DOCC2632111
+desc: "EPCOT Center - Furnish and erect fence at Living Seas Pavilion"
+property: DOCC2632110
+
+---
+date: 1984-01-26
+doc: DOCC2640275
+desc: "EPCOT Center - Site Preparation at Living Seas Pavilion"
+property: DOCC2632110
+
+---
+date: 1984-02-22
+doc: DOCC2653847
+desc: "EPCOT Center - Excavation, Foundation and Superstructure Concrete & Masonry work for the Living Seas Pavilion"
+property: DOCC2632110
+
+---
+date: 1986-03-11
+doc: DOCC3054021
+desc: "EPCOT Center/Future World - Centorium Expansion (60-P-5LT)"
+property:
+ origin: 24 28 30 NE
+ beginning:
+  - S 00 54 55 W 1010.30
+  - N 90 00 00 W 2561.78
+ shape:
+  - S 61 00 34 W 11.31
+  - S 01 33 52 E 30.51
+  - S 38 41 43 W 35.43
+  - N 87 44 31 W 23.00
+  - S 35 00 00 W 26.09
+  - N 85 08 09 W 26.15
+  - N 04 51 51 E  0.00 # Tangent for the following curve
+  - L 147.50 05 12 44 13.42
+  - S 89 39 06 W 13.00
+  - N 00 20 53 W  0.00 # Tangent for the following curve
+  - L 134.50 26 03 40 61.18
+  - N 63 35 26 E 28.00
+  - S 26 24 33 E  0.00 # Tangent for the following curve
+  - R 162.50 05 12 44 14.78
+  - N 68 48 12 E 45.23
+  - S 13 17 10 E  0.00 # Tangent for the following curve
+  - R 174.42 03 07 32  9.52
+  - N 71 24 32 E 26.35
+  - S 02 36 51 W  0.00 # Tangent for the following curve
+  - R 164.94 03 55 36 11.30 # Unsure of the direction, doc says SW which doesn't make sense with the tangent
+  - N 74 00 51 W 23.40
+
+---
+date: 1992-09-14
+doc: DOCC7399851
+desc: "Gift Shop Rehab"
+property:
+ origin: 24 28 30 N
+ beginning:
+  - S 89 27 34 W 354.44
+  - S 00 00 00 E  92.83
+ shape:
+  - S 00 00 00 E  50.00
+  - S 90 00 00 W  50.00
+  - N 00 00 00 W  50.00
+  - N 90 00 00 E  50.00
+
+# ---
+# date: 2011-01-11
+# doc: DOC730S15950
+# desc: TTC Monorail Electrical Work
+# property:
+#  origin: 24 27 11 S
+#  beginning:
+#   - N 89 41 52 E 816.76
+#  shape:
+#   - N 32 00 00 E 222.76
+#   - S 58 00 00 E 230.00
+#   - S 32 00 00 W 350.00
+#   - N 58 00 00 W 230.00
+#   - N 32 00 00 E 127.24
+
+# ---
+# date: 2011-01-18
+# doc: DOC739S3626
+# desc: Polynesian Building 9 Auto Doors
+# property:
+#  origin: 24 27 11 S
+#  beginning:
+#   - N 00 18 07 W 291.73
+#   - S 89 41 53 W 197.51
+#  shape:
+#   - S 14 44 57 W 239.81
+#   - N 76 13 00 W  14.55
+#   - S 15 24 53 W 158.35
+#   - N 74 24 58 W  81.64
+#   - N 15 31 43 E 157.26
+#   - S 76 23 11 E  14.05
+#   - N 14 50 45 E 239.97
+#   - S 75 03 25 E  81.44
+
+# ---
+# date: 2011-01-18
+# doc: DOC739S3625
+# desc: Polynesian Building 10 Auto Doors
+# property:
+#  origin: 24 27 11 S
+#  beginning:
+#   - N 89 41 52 E 237.44
+#   - N 00 00 00 E  31.87
+#  shape:
+#   - N 74 54 56 W 160.57
+#   - N 15 05 04 E  14.09
+#   - N 74 54 56 W 239.99
+#   - N 15 05 04 E  92.44
+#   - S 74 54 56 E 213.61
+#   - N 15 05 04 E  13.29
+#   - S 74 54 56 E  36.43
+#   - S 15 05 04 W  27.38
+#   - S 74 54 56 E 150.53
+#   - S 15 05 04 W  92.44

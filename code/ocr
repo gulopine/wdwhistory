@@ -1,0 +1,9 @@
+#!/bin/bash
+
+year=$1
+mkdir -p ocr/$year
+
+for file in $year/*.pdf
+do
+	ocrmypdf --redo-ocr --oversample 600 --clean --sidecar ocr/${file}.txt ${file} ocr/${file}
+done
