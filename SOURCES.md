@@ -21,6 +21,14 @@ Since rough 2003, FDOT has already georectified all the images and lined them up
 
 ### Notices of Commencement from the Orange County Comptroller's Office
 
+Even through Disney was basically granted its own municipality in the form of the Reedy Creek Improvement District (RCID), they still had to file paperwork with government of Orange County. In particular, Disney would file a Notice of Commencement when construction began on a project. These notices would contain a brief note of the work being done and also a detailed description of the location for that work. Each document is signed and dated and is also stamped with the date that it was processed by the comptroller's office.
+
+The early years are unfortunately somewhat hit or miss. I don't know whether Disney didn't file everything, or if the comptroller's office doesn't have those records available digitally. There are a lot of holes. But starting in about 1988, with the work to be done on Disney/MGM Studios, records got a lot more frequent and detailed. In the mid-90s, they even started including a printed map with the survey points listed. Those maps are less accurate than I'd like, but they can be good references for names of buildings that aren't otherhwise obvious.
+
+[Comptroller's records search](https://or.occompt.com/recorder/web/)
+
+Many of the scripts in this repository revolve around these documents. There are scripts to download them en masse, scripts to attempt to extract text information from them, and scripts to translate the property descritions into geographic shapes that be imported into GIS tools.
+
 ### PLSS survey points from the Orange County Appraiser's Office
 
 The property descriptions from the comptroller's office use the [Public Land Survey System (PLSS)](https://en.wikipedia.org/wiki/Public_Land_Survey_System), which requires a starting point for the property description. That point is referenced in the document, but not given latitude and longitude coordinates. The appraiser's office does have a database of those points. I've included a GeoJSON file in this repositority containing all the points needed for Walt Disney World, but there are also other datasets available from the appraiser's office that might prove useful.
@@ -37,11 +45,21 @@ I ran across this one more recently, so I haven't really looked at it much yet. 
 
 ### Variety of information from ArcGIS collections
 
-There are a lot of user-submitted datasets hosted by ArcGIS that cover WDW and the slightly-broader Reedy Creek Improvement District (RCID). I haven't looked too much at what's available, and I don't know what the copyright/licensing status is on any of it. Feel free to explore at your own discretion.
+There are a lot of user-submitted datasets hosted by ArcGIS that cover WDW and the slightly-broader RCID. I haven't looked too much at what's available, and I don't know what the copyright/licensing status is on any of it. Feel free to explore at your own discretion.
 
 [ArcGIS search for "rcid"](https://www.arcgis.com/home/search.html?q=rcid)
 [ArcGIS search for "wdw"](https://www.arcgis.com/home/search.html?q=wdw)
 
+### RCID public records
+
+I haven't tried this yet myself, but as an official municipality, RCID is required to make at least some portion of its records public. Like most municipalities, though, data and documents are only available upon request. You'd need to know what you're looking for and how to describe it, as well as being willing to pay for it. The information is technically public, but they're allowed to charge for the administrative overhead of tracking it down as well any physical costs of copying and distributing it (paper copies, CDs, etc).
+
+[RCID public records](https://www.rcid.org/publicrecords/)
+
 ### Newspapers.com
 
 This is more about historical information than geographical data. Old newspapers, particularly the [Orlando Sentinel](https://www.newspapers.com/paper/the-orlando-sentinel/4644/), have lots of information about openings and closings, reviews of attractions, event advertisements and other information about the parks over the years. It can also help flesh out histories of the people who owned property prior to Disney.
+
+[Newspapers.com](https://newspapers.com/)
+
+There's a subscription cost in order to retrieve the important newspapers in question, which also makes this a bit of a challenge. But given the volume of information, it's well worth the price, in my opinion. if you do have a subscription, I've included a script in this repository to download newspaper pages programmitically based on search terms.
