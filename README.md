@@ -22,7 +22,13 @@ This was more personal for me. I visited Walt Disney World a few times when I wa
 
 I've gathered a few different data sources to work from over the years. This repo will contain the small portion of it that I've processed, but here's where it all comes from, so others can grab it themselves direct from each source.
 
-### Aerial photography from the Florida Department of Transportation
+### Aerial photography from the Florida Department of Transportation (FDOT)
+
+FDOT maintains a historical record of aerial photograpy dating back nearly a hundred years. It's a great resource for the placement of features that no longer exist, and the resolution of the images is high enough that they can be traced reasonably well. They don't have imagery for every county for every year, though, so it can be a bit hit and miss if you're looking for something that wasn't around for very long.
+
+https://www.fdot.gov/gis/aerialmain.shtm
+
+Since rough 2003, FDOT has already georectified all the images and lined them up to be seamlessly placed side-by-side. This means the more recent years can be sliced into map tiles quite easiliy. Older images, however, are stored as individual shots with no geographic information embedded in them. I had some success using [MapWarper](https://mapwarper.net/), but it's rather slow work, so I focused on the images that best showed the four main parks. You can [my georectified images](https://mapwarper.net/users/746) there for now, but I may delete those at some point, because MapWarper is a community project using a ton of disk space, so it's not really fair to them to leave those up there.
 
 ### Notices of Commencement from the Orange County Comptroller's Office
 
